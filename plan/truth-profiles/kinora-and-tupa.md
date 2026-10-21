@@ -28,3 +28,7 @@ They are handled together because Daniel suggested it: *"talking about her and T
 
 - **Kinora is eight or nine, small from neglect**, so a little younger than Tupa. Her naming day is still several years away. It falls in book 3, where she comes into her own (`plan/sequels.md`). Malena's guess of *"seven or eight"* (`~/code/me/cordimancy/cordimancy.md:520`) was too young, because she was going by Kinora's size.
 - **Tupa's naming day comes in The Clanless.**
+
+## Tupa's naming day is where she chooses (ruling, Q-M93X)
+
+This replaces the Gemini plan's clan-assembly scene, in which *"Tupa publicly chooses"* (`prompts/synopsis-v8.md`, `prompts/outline-v1.md` chapter 31). The ceremony belongs to the clan and is held in Sotalio under Rovin's priest. Veshumi waits on the bank, and so does the fosterage their father arranged. In the water Tupa chooses a self-name, and the name itself is her choice of Malena and the clanless. Walking out of the river to Malena is what makes both of them clanless, so the label Rovin pins on them arrives at the same moment Tupa takes a name. Kinora watches from the bank, years from her own naming day. Veshumi's heartbreak happens at the water's edge, in public, where her respectability can't protect her. Rovin's ultimatum needs a new home, and it may follow from the naming itself, as the clan's answer to a child choosing against it.
