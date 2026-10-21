@@ -1,5 +1,5 @@
 ---
-approval: approved 818497e6
+approval: approved 602c9cf0
 ---
 
 # Brief: what The Clanless is for
@@ -46,4 +46,4 @@ This book is a step up from Cretaceous and Deep Resonance: *"even richer charact
 
 ## Still open
 
-How the book hands off to a third book, and what would make it a failure.
+What would make the book a failure. The hand-off to book 3 is in `plan/sequels.md`.
