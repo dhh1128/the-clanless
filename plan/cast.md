@@ -58,12 +58,15 @@ This file lists every person and named animal in Cordimancy, with their status a
 
 - **Little Paka**, Malena and Toril's son, named for Paka (`plan/backstory.md` PK1). He is too little to have much personality in this book.
 
-## In the Gemini files only (not canon)
+## New for The Clanless (ruling, Q-R0SX)
 
-These come from `prompts/`. Some carry ideas the files attribute to Daniel. Each waits for him to recognize it.
+Daniel: *"they came with me, and I think I want them."* The names come from the Gemini files and are `[?]` until he confirms them.
+
+- **Corim's sister** (`[?]` named Desta, from `prompts/malenas-arc.md:25`). Canon mentions her once: *"My sister left it here last time she came to visit"* (`~/code/me/cordimancy/cordimancy.md:2986`). Toril asked Corim to care for Cricket (`:3409`), and she is the one who has been doing it. Daniel: *"Her willingness to come provides another solid adult anchor for the clanless group, and one not embroiled in all the complications that bog down Toril and Malena. She is just solid and good and sensible and competent."*
+- **An ahu survivor who breaks with Luim** (`[?]` named Kael, from `prompts/ojis-arc.md:13`). Daniel: *"Kael is present to show that Osipi are not uniform in their support for Luim's agenda, and to perhaps begin to broaden people's conceptions beyond what Oji is like."*
+
+## In the Gemini files only (not canon)
 
 | name | role in the Gemini files | source |
 |---|---|---|
-| Desta | Corim's sister; *"Your idea to bring in Corim's sister"* | `prompts/malenas-arc.md:25` |
-| Kael | An ahu survivor who defects; *"Your idea of a defector"* | `prompts/ojis-arc.md:13` |
 | Nima | Sotalio's Voice, friend of Noemi's murdered Voice | `prompts/new-supporting-cast.md:24` |
