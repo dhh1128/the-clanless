@@ -22,7 +22,7 @@ Daniel's essay on lying (`~/code/me/sivanea.com/on-lying-and-truth-telling.md`) 
 
 ## Two kinds of struggle
 
-- **The conscious dilemma: the clan, or the children.** He is the legitimate chief of Kelun. Hasha's legacy and the clan's survival under Rovin's growing war are his to defend. Contesting Rovin may split the clan and put the orphans in the middle of it. Yielding abandons his people to a war he knows is founded on a lie. He feels both goods fully. In Sotalio, at the gate, he lets the staff go while holding Paka. That is the moment he chooses, and it costs him the clan.
+- **The conscious dilemma: the clan, or the children.** He is the legitimate chief of Kelun. Hasha's legacy and the clan's survival under Rovin's growing war are his to defend. Contesting Rovin may split the clan and put the orphans in the middle of it. Yielding abandons his people to a war he knows is founded on a lie. He feels both goods fully. He decides it when he gives the staff away in an escalated trade with Rovin, for the freedom of every orphan and of everyone who follows him (`plan/truth-profiles/kinora-and-tupa.md`, the indenture). He is not stripped of it at the gate, as the Gemini outline had it. Where this falls in the book is open.
 - **The confident blind spot: the orphans as his to keep.** He vowed to *"father those kids."* He is stoneless, so these children are the only fatherhood left to him. When a relative comes to claim an orphan, he is certain he is protecting the child. The reader may see that some of what he is protecting is his own need. His love is real, and so is his possessiveness, and he can't see the second.
 
 ## The child (proposal)
