@@ -12,11 +12,11 @@ Each claim is marked *canon*, with a line in `~/code/me/cordimancy/cordimancy.md
 - In her family, childbirth kills women: the grandmother and the aunt (`:224`; SH2).
 - Her father's life's work was restoring the Shavir line's standing: *"It's been twelve generations since the line of Shavir held the staff of clan chief; you can restore us to the status we deserve."* (`:225`). Her mother wore the *"gaudy ruby"* and the loneliness that came with it (`:4116`).
 - Her parents are dead and never found (SH1).
-- She is married to Rovin's cousin: *"My sister's married to his cousin, Toril."* (`:1710`). Canon doesn't name him.
+- She is married to Rovin's cousin: *"My sister's married to his cousin, Toril."* (`:1710`). Canon doesn't name him. He is also Rovin's protégé, faithful to her and emotionally absent (ruling, Q-DEFS; `plan/truth-profiles/rovin.md`).
 
 ## Two kinds of struggle
 
-- **The conscious dilemma: her sisters, or her place.** A wife with no child, in a marriage made for alliance, holds her place only while she stays useful to her husband's house. Taking Malena in, or siding with her, puts that place at risk while Rovin is turning against Toril. She knows exactly what each choice costs, and she is torn, the way Malena is torn over telling Toril.
+- **The conscious dilemma: her sisters, or her place.** A wife with no child, in a marriage made for alliance, holds her place only while she stays useful to her husband's house. Her husband is Rovin's protégé, so taking Malena in, or siding with her, means setting herself against her husband's patron while Rovin is turning against Toril. She knows exactly what each choice costs, and she is torn, the way Malena is torn over telling Toril.
 - **The confident blind spot: respectability is safety.** She is sure the way to survive is to be beyond reproach. It was their father's creed, and with him dead she carries it as a duty to him, without noticing that it is his voice speaking. The reader can see it is the cage Malena escaped. She is also partly right: in Sotalio, in winter, under Rovin, respectability really is protection, and for an eleven-year-old it may be the only protection there is. This is the mirror of Malena's blind spot about Tupa. Each sister is certain she is the one protecting the youngest.
 
 ## How she lies to herself (proposal)

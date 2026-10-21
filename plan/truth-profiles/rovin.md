@@ -34,3 +34,7 @@ He sees people as positions: allies, assets, problems. That shapes every scene t
 - **Kinora's indenture.** To him she is property under law, and a precedent. If an indenture can be broken by sentiment, he loses something he needs to rule. Toril's public confession that he bought a child is useful to Rovin, and he lets it happen.
 - **The staff trade.** When Toril offers the staff in exchange for the freedom of every orphan and everyone who follows him, Rovin thinks he has the better of the bargain. He gets the staff, and Sotalio loses dissenters and mouths to feed before winter. He never understands what he sold.
 - **The label.** He means *clanless* as a sentence that ends people. He can't imagine it becoming a name.
+
+## Veshumi's husband (ruling, Q-DEFS)
+
+He is Rovin's cousin (`~/code/me/cordimancy/cordimancy.md:1710`) and his protégé (Daniel: *"make Veshumi's husband Rovin's protegé"*). Daniel's note on the marriage applies to him: *"true to her in their marriage, but emotionally disengaged and not striving for an intimate, rewarding relationship."* He learned to treat people as positions from Rovin, and he treats his wife that way too. Rovin reaches Veshumi in two ways. Through her husband, the coldness is daily. From Rovin himself, she is an alliance that hasn't paid: six years without an heir. Canon doesn't name the husband, so his name is new canon and waits for Daniel.
