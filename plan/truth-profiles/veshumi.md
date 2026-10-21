@@ -12,7 +12,7 @@ Each claim is marked *canon*, with a line in `~/code/me/cordimancy/cordimancy.md
 - In her family, childbirth kills women: the grandmother and the aunt (`:224`; SH2).
 - Her father's life's work was restoring the Shavir line's standing: *"It's been twelve generations since the line of Shavir held the staff of clan chief; you can restore us to the status we deserve."* (`:225`). Her mother wore the *"gaudy ruby"* and the loneliness that came with it (`:4116`).
 - Her parents are dead and never found (SH1).
-- Canon doesn't name her husband. The Gemini synopsis makes him Rovin's cousin. *Open.*
+- She is married to Rovin's cousin: *"My sister's married to his cousin, Toril."* (`:1710`). Canon doesn't name him.
 
 ## Two kinds of struggle
 
