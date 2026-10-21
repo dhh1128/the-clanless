@@ -4,7 +4,7 @@ approval: unapproved
 
 # Truth profile: Veshumi
 
-Each claim is marked *canon*, with a line in `~/code/me/cordimancy/cordimancy.md` (cordimancy commit `64b2f69`), or *proposal*, which waits for Daniel's correction. Canon says very little about her, so nearly everything here is proposal. A profile makes her consistent in her own eyes. It does not by that alone make her someone a reader likes, so that is handled separately below.
+Each claim is marked *canon*, with a line in `~/code/me/cordimancy/cordimancy.md` (cordimancy commit `64b2f69`), or *proposal*, which waits for his correction. Canon says very little about her, so nearly everything here is proposal. A profile makes her consistent in her own eyes. It does not by that alone make her someone a reader likes, so that is handled separately below.
 
 ## What canon gives her
 
