@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 ### **Introduction: The World of Sivanea, kingdom of Zufa**
 
 The novel *Cordimancy* is set in the world of **Sivanea** and the **Kingdom of Zufa**, a pre-modern, pre-industrial society with a distinct cultural flavor analogous to that of the ancient Indian subcontinent (circa 2000 years ago). The society is organized around a feudal clan system, bound by loyalty to a central Raja, and defined by a deep and complex relationship with magic, history, and a rugged, mountainous landscape. The primary action takes place in the southern borderlands, specifically the **Sumago Mountains** territory of **Clan Kelun**, near the border of the osipi nation, **Merukesh**.

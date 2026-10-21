@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 Here is Version 5 of the synopsis.
 
 ---

@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 This is a fantastic line of questioning. Oji's arc needs to be just as strong as the others, and you've hit on the perfect way to tie it directly into the main plot, making Rovin's "fake war" tragically and ironically real.
 
 Here is a proposed arc that incorporates your ideas and aims for maximum emotional impact.

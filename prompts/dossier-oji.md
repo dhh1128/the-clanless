@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 ## **Character Dossier: Oji (Oathizhi)**
 
 ### **1\. Core Identity: The "Honorable Traitor"**

@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 Here is Version 2 of the synopsis for *The Clanless*.
 
 ---

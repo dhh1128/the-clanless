@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 ## **Final Reference: *Cordimancy* (Complete Novel)**
 
 Here is the complete, information-dense reference summary for your novel, *Cordimancy*.

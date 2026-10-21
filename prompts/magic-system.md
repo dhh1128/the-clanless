@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 Names of magic are associated with body parts using Greek roots. Thus, "manu" \+ "mancy" \= hand magic, "labimancy" \= lip magic, "cordimancy" \= heart magic, sanguimancy \= "blood magic", etc.
 
 All human magic originates from "The Five Who Speak" (gods) and is determined by a choice made during the **Naming Day** ritual.

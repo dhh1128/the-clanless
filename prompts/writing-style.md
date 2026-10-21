@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 This is an excellent set of questions. The "how" of a story is just as important as the "what." Based on the text, here is a reference guide to the writing style, tone, and authorial choices of *Cordimancy*, designed to guide AI collaboration.
 
 ---

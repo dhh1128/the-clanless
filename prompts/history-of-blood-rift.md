@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 The Blood Rift was created by the "blood magic" of **Queen Viro**, an ancient and ambitious magic-user. Zufa was ruled by her father, the Raja, who had twin daughters: **Lin** (gentle, a "heart") and **Viro** (fiery, a "hand"). Viro coveted the throne, but her father, fearing her ambition, passed her over.
 
 Years later, a catastrophic magical drought (implied to be Viro's doing) ravaged the land. Queen Lin, now the ruler, met Viro at the mountain pass between their kingdoms. Viro offered to end the drought using **sanguimancy (blood magic)**, claiming it was the only way. The price, she revealed, was **Lin's own royal blood**.

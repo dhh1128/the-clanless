@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 This is a fantastic layer of complexity. Making Rovin's wife Malena's sister makes the Sotalio conflict deeply and painfully personal. It provides the perfect "pressure cooker" to force Malena's growth.
 
 Here is how we can weave these new elements into her arc to add the richness you're looking for.

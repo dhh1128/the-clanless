@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 Here is Version 7 of the synopsis, incorporating the rich family conflict between Malena, Veshumi, and Tupa.
 
 ---

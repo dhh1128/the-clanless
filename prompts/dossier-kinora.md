@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 ## **Character Dossier: Kinora**
 
 ### **1\. Core Identity: The Survivor Who Sings**

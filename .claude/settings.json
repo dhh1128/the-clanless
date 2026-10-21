@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"$CLAUDE_PROJECT_DIR\" && c=$(git status --porcelain -- content plan prompts kb AGENTS.md README.md tools) && if [ -n \"$c\" ]; then printf \"UNCOMMITTED CHANGES in the corpus at session start. These are probably Daniel's own edits: commit them first, on their own, as his, before touching those files (AGENTS.md section 3b).\\n%s\\n\" \"$c\"; fi; true"
+          }
+        ]
+      }
+    ]
+  }
+}

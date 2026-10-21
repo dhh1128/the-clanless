@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 Here is Version 8 of the synopsis, integrating the new roles for Kael and Nima.
 
 ---

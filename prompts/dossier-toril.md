@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 ## **Character Dossier: Toril ur Hasha**
 
 ### **1\. Core Identity: The "Helpless Seeker"**

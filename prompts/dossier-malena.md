@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 ## **Character Dossier: Malena i Toril**
 
 ### **1\. Core Identity: The "Heart" Who Chose "Art"**

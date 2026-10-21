@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 ## Key Decisions & Thematic Rationale (The "Why")
 This document summarizes the core thematic and plot decisions made for The Clanless (based on Version 8 of the synopsis), explaining the reasoning behind them.
 

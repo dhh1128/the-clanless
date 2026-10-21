@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 There is a prologue to Cordimancy that details the origin of the alliance between Gorumim and the osipi, forged more than a century before the events of *Cordimancy*.
 
 ### **What Happens in the Prologue**

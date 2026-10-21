@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 ## New Supporting Cast Dossiers (The "Who")
 This document outlines the new, crucial supporting characters created for The Clanless.
 

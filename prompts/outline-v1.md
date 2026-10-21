@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 You're absolutely right. The 41-point list is the skeleton; this next pass is how we give it a "Heart".
 
 This is the "real work", and I'm ready. We will weave the quiet, "intimate" scenes of healing and bonding in between the major plot points to ensure the reader "fall[s] in love" with this family.
