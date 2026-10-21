@@ -18,6 +18,6 @@ Daniel's statements about the book after this one. The Clanless doesn't show any
 
 ## Set up in The Clanless, or confirmed in book 3
 
-- **The brotherhood of Toril and Oji is confirmed out loud**, possibly formally, in a blood-brother rite, either in this book or in book 3. The rite would need to be the world's own, not a borrowed one.
+- **The brotherhood of Toril and Oji is confirmed out loud**, possibly formally, in a blood-brother rite akin to Native American ones, either in this book or in book 3. [?] The rite would be the world's own rather than a borrowed one.
 
 More to come from Daniel.
