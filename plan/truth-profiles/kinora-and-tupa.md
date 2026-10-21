@@ -54,9 +54,30 @@ This replaces the Gemini plan's clan-assembly scene, in which *"Tupa publicly ch
 **Her conscious dilemma `[?]`, in the direction Daniel gave:** *"a distant relative asserts 'ownership' of her, and she assumes she'll have to go, because she doesn't feel like she owns herself. When Toril gets angry, she assumes it's because he doesn't want to lose his servant girl, and is astonished when Toril goes to extreme lengths and high personal costs to protect her, and calls her his daughter. ... Could be Malena that does the defending. And Tupa could be involved (tells Malena that Kinora has consented and is on her way elsewhere, knowing more clearly than Kinora does how the two adults feel about her?)."*
 
 The session's refinement:
-- **The claim rests on Toril's own bargain.** Toril got her by bargaining with her stepfather for an apprentice (`~/code/me/cordimancy/cordimancy.md:3530`), and her wages went to that man (`:573`). With him dead, his kin inherit the bargain. Under Sotalio's law, with Rovin presiding, they hold her indenture, so the label *servant* is literally written into a contract. To call her his daughter, Toril has to undo a deal he made himself.
+- **The claim rests on Toril's own bargain** (ruling, Q-YKE6: the claimants are her stepfather's kin). Toril got her by bargaining with her stepfather for an apprentice (`~/code/me/cordimancy/cordimancy.md:3530`), and her wages went to that man (`:573`). With him dead, his kin inherit the bargain. Under Sotalio's law, with Rovin presiding, they hold her indenture, so the label *servant* is literally written into a contract. To call her his daughter, Toril has to undo a deal he made himself.
 - **The claimant is trapped, not evil.** Noemi's ruin left the stepfather's people with no hands and a winter coming. To them a strong nine-year-old is survival, and the law says she is theirs.
 - **Her choice, which she believes is right:** she consents to go. She is sparing Toril and Malena a fight they can't afford when they are already losing the clan, and she believes she owes it. It is the same act as leaving Cricket in the rushes: she lets herself go so the people she loves are spared. It is generous and wrong, and to her it is plainly right.
 - **Tupa sees what Kinora can't.** She tells Malena that Kinora has consented and is already on her way. She knows how the two adults feel better than Kinora does.
 - **Toril's blind spot meets hers.** His profile says that when a relative claims an orphan, *"he is certain he is protecting the child"*, and that part of what he protects is his own need (`plan/truth-profiles/toril.md`). In this scene his anger looks like possessiveness to Kinora, and perhaps briefly to the reader. What resolves both blind spots is that the defense is for her freedom, not for his keeping. They break the indenture first, so that she owns herself, and only then do they ask. She chooses them, and the word *daughter* is spoken after she has chosen.
 - **It plants book 3.** *"With people, all true names are self-names"* (`:1445`). She can't choose a self-name until she owns herself. Her naming day comes in book 3, where she comes into her own (`plan/sequels.md`).
+
+## The indenture: Malena's part, the stakes, the cost `[?]`
+
+Daniel asked: *"Do you think Malena should be involved in this struggle at all, and if so, how? Also, what are the stakes for Toril and for Malena, and what does it cost them to set her free?"*
+
+**Malena is involved in three ways.**
+- **She is caught out.** Tupa has to tell her that Kinora has consented and is leaving. Malena didn't notice. Her blind spot is about Tupa, and her first attention goes to her blood sister (`plan/truth-profiles/malena.md`). She was also raised with servants, so letting Kinora serve felt normal to her. Kinora's jealousy of Tupa's official tie is therefore partly accurate. Malena has to see that she preached chosen family and ranked by blood anyway.
+- **She is the voice.** Toril is semi-mute (`~/code/me/cordimancy/cordimancy.md:4706`, `:4711`), so Malena argues the case before Rovin. She uses her Shavir wit and the training of a *semanya*.
+- **She pays,** as described below.
+
+Toril speaks one word: *daughter*. It has to come from his mouth, and every word costs him pain, so he spends that one on her.
+
+**The stakes.**
+- **Kinora:** a winter of servitude among strangers, and her belief that she is only staff confirmed for good.
+- **Toril:** whether his name is true. The *"Seeker of the Helpless"* (`:193`) bought a child for his kitchen, and Rovin can say so in public. The other danger is his own blind spot: he could win by *keeping* her instead of freeing her.
+- **Malena:** whether the family she is choosing is real, or only Tupa with some others around her.
+
+**The cost.**
+- **Malena: her share of their father's estate.** *"Your father's treasure box holds only half our net worth"* (`:4116`). With their parents dead, the box sits with Veshumi's household in Sotalio. Buying out the indenture spends Malena's portion of it, the means the family needed for the winter road and the baby. She has to ask Veshumi for it, which makes her choose against *"Father's wishes"* in front of her sister.
+- **Toril: open.** One option is that Rovin names the price for voiding the indenture, and the price is the staff. Toril's conscious dilemma, the clan or the children, is then decided over this child. The staff-at-the-gate scene comes from the Gemini outline (`prompts/outline-v1.md:181`), not from Daniel.
+- **Hazard: the turquoise heartstone is not a currency here.** Malena threw it away and it was lost (`:4070`–`4097`, `:4542`), and Cordimancy's closing questions point at it (`:4788`). That is a larger thread, and this scene shouldn't spend it.
