@@ -41,7 +41,12 @@ Her harshness about the pregnancy feels to her like prudence: *someone in this f
 2. **She shares the family wit.** It is the same dry, sharp humor Malena has (*"Heaven's Fist! How many conversational firecrackers…"*, `:214`), turned on the town instead of on herself. The reader enjoys her company before they understand her.
 3. **She cares for Tupa practically.** Gemini has her buy Tupa "a gaudy dress". Instead she gives a warm cloak, does Tupa's hair, makes sure Tupa eats.
 4. **She helps in secret at the gate.** When the exiles leave, supplies for the road reach them and nobody admits to sending them. Malena's first kindness to Toril in Cordimancy was anonymous too, so the reader sees that the sisters are more alike than either knows.
-5. **She comes to the birth.** This reverses the Gemini plan, in which she spurns Malena. She knows the family's history with childbirth better than anyone, and she comes anyway. She says the wrong things the whole time, and she stays.
+5. **She comes to the birth, and stays.** This is a ruling and reverses the Gemini plan, in which she spurns Malena. She knows the family's history with childbirth better than anyone, and she comes anyway. She says the wrong things the whole time, and she stays.
+
+**The constraint on that ruling.** The book is about chosen family and belonging, and its title names the cost. *"We have to be surgical about the fact that Tupa and Malena's choice essentially make them clanless. It's that 'essentially' that gives us a little freedom -- but the feelings of isolation need to be real. Veshumi's own choice is not to become clanless, and it should be understandable, and heart-rending because we understand her."*
+
+- **Hazard:** the birth softens the exile into a family quarrel that will mend. If the reader expects Veshumi to follow them to the Rift, the isolation was never real. She came because she is their sister. She does not leave, and the birth is what makes her not leaving hurt.
+- **Hazard:** her secret supplies at the gate (item 4) are read as reconciliation. They are her goodbye. They stay anonymous, and Malena may never be sure who sent them.
 
 ## The contested choice she believes is right (proposal)
 
