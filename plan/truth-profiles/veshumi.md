@@ -14,7 +14,7 @@ Each claim is marked *canon*, with a line in `~/code/me/cordimancy/cordimancy.md
 - Her parents are dead and never found (SH1).
 - Canon doesn't name her husband. The Gemini synopsis makes him Rovin's cousin. *Open.*
 
-## Two kinds of struggle (proposal)
+## Two kinds of struggle
 
 - **The conscious dilemma: her sisters, or her place.** A wife with no child, in a marriage made for alliance, holds her place only while she stays useful to her husband's house. Taking Malena in, or siding with her, puts that place at risk while Rovin is turning against Toril. She knows exactly what each choice costs, and she is torn, the way Malena is torn over telling Toril.
 - **The confident blind spot: respectability is safety.** She is sure the way to survive is to be beyond reproach. It was their father's creed, and with him dead she carries it as a duty to him, without noticing that it is his voice speaking. The reader can see it is the cage Malena escaped. She is also partly right: in Sotalio, in winter, under Rovin, respectability really is protection, and for an eleven-year-old it may be the only protection there is. This is the mirror of Malena's blind spot about Tupa. Each sister is certain she is the one protecting the youngest.
