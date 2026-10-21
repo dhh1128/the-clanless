@@ -16,11 +16,11 @@ Each claim is marked *canon*, citing a line of `~/code/me/cordimancy/cordimancy.
 - **Wit under the worst pain.** Under torture, *"a queer, broken, wet sort of chuckle … unmistakably laughter"*, and then *"Two lips. Two liars."* (`:4531`–`4532`)
 - **The blame he carries.** Malena *"sensed that the destruction of Noemi and her own misery were connected"* to his defiance at the war council (`:1594`). The clan calls him coward and traitor: *"The clan already… hates me"* (`:4532`).
 
-## Label and name (proposal; this ties the essay to the ordeal)
+## Label and name
 
 Daniel's essay on lying (`~/code/me/sivanea.com/on-lying-and-truth-telling.md`) says labels lie: they are tidy buckets someone applies to a messy soul. The ordeal says names are true: *"With people, all true names are self-names."* (`:1445`). The Clanless can run on that difference. Others *apply* labels to Toril: *stoneless*, *traitor*, *coward*, *cripple*, and finally Rovin's *clanless*. Toril *chose* his name, and the book is about whether he holds it. The title inverts when the exiles take the label Rovin imposed and hold it as a name. This applies to every character, not only Toril.
 
-## Two kinds of struggle (proposal)
+## Two kinds of struggle
 
 - **The conscious dilemma: the clan, or the children.** He is the legitimate chief of Kelun. Hasha's legacy and the clan's survival under Rovin's growing war are his to defend. Contesting Rovin may split the clan and put the orphans in the middle of it. Yielding abandons his people to a war he knows is founded on a lie. He feels both goods fully. In Sotalio, at the gate, he lets the staff go while holding Paka. That is the moment he chooses, and it costs him the clan.
 - **The confident blind spot: the orphans as his to keep.** He vowed to *"father those kids."* He is stoneless, so these children are the only fatherhood left to him. When a relative comes to claim an orphan, he is certain he is protecting the child. The reader may see that some of what he is protecting is his own need. His love is real, and so is his possessiveness, and he can't see the second.

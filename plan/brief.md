@@ -1,5 +1,5 @@
 ---
-approval: approved 84e2bf62
+approval: approved 818497e6
 ---
 
 # Brief: what The Clanless is for
@@ -16,6 +16,8 @@ These are the book's goals, in Daniel's words (`~/code/me/novel-method/runbook.m
 - *"With people, all true names are self-names. … Names of great worth are forged at a price; the ordeal is to continue to choose the name when you understand its cost."* (`cordimancy.md:1445`–`1447`)
 - *"Will you hold your name—be who you've chosen—even when all hope is lost?"* (`:1565`)
 - *"You ask me to help you become. … But I cannot do so if I spare you the becoming."* (`:2536`)
+
+**Labels are imposed; names are chosen and held.** Daniel's essay says labels lie (`~/code/me/sivanea.com/on-lying-and-truth-telling.md`). The ordeal says *"With people, all true names are self-names"* (`cordimancy.md:1445`). Other people pin labels on the characters: *stoneless*, *traitor*, *coward*, *cripple*, *barren*, *parricide*, and finally Rovin's *clanless*. Each character has to decide whether to hold the name they chose. The title inverts when the exiles take the label Rovin pinned on them and hold it as a name.
 
 **Heart magic over blood magic.** Cordimancy is an odd fantasy novel. There is no quest for a talisman, and the hero gives his magic away instead of using it. *"Shivi defeats the most powerful wizard in the world because Shivi's blood can't be bent to his intended use of blood magic. This is a test of wills, and names."* The Clanless keeps that shape: the power that matters is not the talent anyone was renowned for.
 
