@@ -24,7 +24,7 @@ This file lists every person and named animal in Cordimancy, with their status a
 | Veshumi's husband | Rovin's cousin (`:1710`); his protégé and lieutenant (ruling, `plan/truth-profiles/rovin.md`). Unnamed | `:1710` |
 | Vasari | Clansman friendly to Toril; went back to Sotalio | `:1146`, `:1820` |
 | the priest | Married Toril and Malena, went to Sotalio to shame Rovin, was set up and nearly lynched | `:3025`, `:3333` |
-| Gorumim (Moruvish) | General, sata, blood mage. Alive by Daniel's ruling (`plan/sequels.md`) | `:4713` |
+| Gorumim (Moruvish) | General, sata, blood mage. Alive (`plan/sequels.md`) | `:4713` |
 | the shimsal | The official at the Bakar war council; Shivi impersonated her | `:759`, `:4736` |
 | the chief of Navala Clan | At the war council | `:802` |
 | Tamorish and Emor ur Matimor | Brothers met at Kikal Pilar while Toril went as "Merat" | `:4350` |
