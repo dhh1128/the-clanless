@@ -23,7 +23,7 @@ novel-method has not tagged its first edition yet. Until it does, this repo foll
 
 ## 1. What counts as canon
 
-- **Cordimancy is canon, and nothing else is.** That means `~/code/me/cordimancy/cordimancy.md` at cordimancy commit `64b2f69`. Every `kb/cordimancy/` fact cites it by line.
+- **Cordimancy is canon, and nothing else is.** That means `~/code/me/cordimancy/cordimancy.md` at cordimancy commit `64b2f69`, together with Daniel's bonus prologue, `~/code/me/sivanea.com/cordimancy/bonus-prologue.md`, which tells how Gorumim (Moruvish) bound himself to the osipi. Every `kb/cordimancy/` fact cites one of the two by line.
 - **The Gemini files in `prompts/` are not canon and not evidence.** They were written on 2025-11-01, before this method existed, and they make claims about Cordimancy that the text contradicts. For example, the Malena dossier says she knows she is pregnant, but the novel says she only suspects it (`~/code/me/cordimancy/cordimancy.md:4122`). Use them as an index for finding lines and as a list of ideas to put to Daniel one at a time. They stay until he has gone through them, and are then deleted, with git as the archive.
 - **The only test of approval is whether he recognizes it** (`~/code/me/novel-method/charter.md`, "The governing rule").
 
