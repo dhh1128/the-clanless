@@ -60,10 +60,10 @@ This file lists every person and named animal in Cordimancy, with their status a
 
 ## New for The Clanless (ruling, Q-R0SX)
 
-Daniel: *"they came with me, and I think I want them."* The names come from the Gemini files and are `[?]` until he confirms them.
+Daniel: *"they came with me, and I think I want them."* The names Desta and Kael come from the Gemini files (`prompts/malenas-arc.md:25`, `prompts/ojis-arc.md:13`) and are approved (Q-AXH3).
 
-- **Corim's sister** (`[?]` named Desta, from `prompts/malenas-arc.md:25`). Canon mentions her once: *"My sister left it here last time she came to visit"* (`~/code/me/cordimancy/cordimancy.md:2986`). Toril asked Corim to care for Cricket (`:3409`), and she is the one who has been doing it. Daniel: *"Her willingness to come provides another solid adult anchor for the clanless group, and one not embroiled in all the complications that bog down Toril and Malena. She is just solid and good and sensible and competent."*
-- **An ahu survivor who breaks with Luim** (`[?]` named Kael, from `prompts/ojis-arc.md:13`). Daniel: *"Kael is present to show that Osipi are not uniform in their support for Luim's agenda, and to perhaps begin to broaden people's conceptions beyond what Oji is like."*
+- **Corim's sister** (Desta). Canon mentions her once: *"My sister left it here last time she came to visit"* (`~/code/me/cordimancy/cordimancy.md:2986`). Toril asked Corim to care for Cricket (`:3409`), and she is the one who has been doing it. Daniel: *"Her willingness to come provides another solid adult anchor for the clanless group, and one not embroiled in all the complications that bog down Toril and Malena. She is just solid and good and sensible and competent."*
+- **An ahu survivor who breaks with Luim** (Kael). Daniel: *"Kael is present to show that Osipi are not uniform in their support for Luim's agenda, and to perhaps begin to broaden people's conceptions beyond what Oji is like."*
 
 ## In the Gemini files only (not canon)
 
