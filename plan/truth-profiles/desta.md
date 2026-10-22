@@ -17,17 +17,23 @@ Each claim cites `~/code/me/cordimancy/cordimancy.md` (cordimancy commit `64b2f6
 
 ## Age
 
-She and Corim are roughly a generation older than Toril and Malena (Daniel: *"Desta is older than Toril and Malena by roughly a generation, btw"*, *"(and so is Corim)"*).
+She and Corim are roughly a generation older than Toril and Malena, both in their mid-forties, and both single. Desta has no children (Daniel).
 
 ## What she is not
 
 She does not stand for *labor*. That word belongs to Malena, who has to find out what it means (`plan/brief.md`). The Gemini files cast her as *"practical, 'labor'-focused"* alongside Malena *"the 'Heart'"* (`prompts/malenas-arc.md:25`). Desta can be very good at hard work without being the word.
 
-She is not Shivi come back, either. With Shivi and Paka dead, she is the only older woman in the group, and the reader will measure her against the grandmother Tupa lost (*"Is that what grandmas are like, Lena?"*, `~/code/me/cordimancy/cordimancy.md:4727`). Shivi was wise, magical and mischievous, a teacher of forgiveness. Desta is sensible, practical and plain-spoken, and she has no magic. She shouldn't hand out wisdom, and nobody should call her grandma until she has earned it in her own way.
+She is not Shivi come back, either, and she isn't grandmotherly (Daniel: *"I wouldn't say that Desta is grandmotherly, yet. She has no children."*). With Shivi and Paka dead, the reader will still measure her against the grandmother Tupa lost (*"Is that what grandmas are like, Lena?"*, `~/code/me/cordimancy/cordimancy.md:4727`). Shivi was wise, magical and mischievous, a teacher of forgiveness. Desta is sensible, practical and plain-spoken, and she has no magic.
 
-## Why she comes `[?]`
+`[?]` A single, childless woman in her forties who has a full life is a quiet counterpoint to Veshumi, whose worth is measured by the children she hasn't had. The hazard is sentiment: Cricket must not read as Desta *finally* getting to be a mother.
 
-She has had Cricket for weeks, and she loves him. If Toril and Malena adopt him, he goes north into winter with them, and she can let him go or go with him. Coming is a choice she makes for him before it is a principle. That keeps her from being a saint, and it makes her goodness ordinary and easy to believe. She also has the one thing the group lacks: a sensible adult whose life hasn't just fallen apart.
+## Why she comes
+
+There are two reasons (ruling, Q-DGMW):
+- **Cricket.** She has cared for him since Oji left him at Corim's house (`~/code/me/cordimancy/cordimancy.md:3450`), and if Toril and Malena adopt him, she either lets him go north into winter or goes with him.
+- **Corim.** She is loyal to her brother and fond of him, and he is going.
+
+Neither reason is a principle. That keeps her from being a saint, and it makes her goodness ordinary and easy to believe. She also brings something the group lacks: a sensible adult whose life hasn't just fallen apart.
 
 ## Two kinds of struggle, kept small `[?]`
 
