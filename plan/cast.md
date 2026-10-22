@@ -18,7 +18,8 @@ This file lists every person and named animal in Cordimancy, with their status a
 | Cricket | The toddler Kinora named. He was found, and Oji left him at Corim's house in Two Forks with Hika guarding him | `:3450`, `:4683` |
 | Riva | A small girl Tupa carried out of the palace | `:1689`, `:4697` |
 | Hika | Hasha's sheepdog, staying at Corim's house to guard Cricket | `:999`, `:3450` |
-| Corim | Toril's friend in Two Forks (Oji calls Toril *"stonecaster"*). About a generation older than Toril, as is his sister Desta (Daniel) | `:2941`, `:4373` |
+| Corim's twin boarhounds | *"my bodyguard … And so is his twin"* | `:2934`–`2936`, `:3450` |
+| Corim | Toril's friend in Two Forks (Oji calls Toril *"stonecaster"*). Mid-forties, single, as is his sister Desta (Daniel). Profile: `plan/truth-profiles/corim.md` | `:2941`, `:4373` |
 | Veshumi | Malena's eldest sister, married six years with no child; married to Rovin's cousin | `:224`–`225`, `:1710` |
 | Rovin | Head of another Kelun parijan, wants the staff, ran Sotalio's defense | `:307`, `:1305` |
 | Veshumi's husband | Rovin's cousin (`:1710`); his protégé and lieutenant (ruling, `plan/truth-profiles/rovin.md`). Unnamed | `:1710` |
