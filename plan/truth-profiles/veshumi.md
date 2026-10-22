@@ -51,3 +51,7 @@ Her harshness about the pregnancy feels to her like prudence: *someone in this f
 ## The contested choice she believes is right (proposal)
 
 She fights to keep Tupa in Sotalio. She believes it is the only safe place for a child in winter, and that Malena is choosing her own pride over their sister's survival. The reader may disagree. They should also be unable to say she is simply wrong.
+
+## Malena's share `[?]`
+
+The Kinora indenture can be paid only with Malena's share of their father's estate, because Rovin has frozen Toril's (`plan/truth-profiles/corim.md`, "Toril's wealth"). That share sits with Veshumi's household. Releasing it is an act against her husband's patron, and it is the clearest test of her dilemma between her sisters and her place.
