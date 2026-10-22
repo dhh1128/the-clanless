@@ -28,6 +28,7 @@ This file lists every person and named animal in Cordimancy, with their status a
 | Gorumim (Moruvish) | General, sata, blood mage. Alive (`plan/sequels.md`) | `:4713` |
 | the shimsal | The official at the Bakar war council; Shivi impersonated her | `:759`, `:4736` |
 | the chief of Navala Clan | At the war council | `:802` |
+| Sarín | A young man from another parijan who had opened marriage negotiations for Malena before Toril proposed | `:418` |
 | Tamorish and Emor ur Matimor | Brothers met at Kikal Pilar while Toril went as "Merat" | `:4350` |
 
 ## Status unknown
@@ -54,6 +55,8 @@ This file lists every person and named animal in Cordimancy, with their status a
 | Kinora's stepfather, Elesel, Maco | Noemi was *"wiped out"* | `:1305`, `:3528`–`3536` |
 | Kinora's real father | Killed by a sloth bear when she was a baby | `:563` |
 | Taxo | Raja Fodende's son, long dead | `:1793` |
+| Irov ur Hapno | The last sata to lead Kelun, eight hundred years ago | `:108` |
+| Viro and Lin | Twin sisters of the Blood Rift legend. Viro tore the land with blood magic, and Lin died carrying a seedling as a peace offering | `:3899`, `:3982`–`3990` |
 
 ## Born in The Clanless
 
