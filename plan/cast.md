@@ -70,4 +70,4 @@ Daniel: *"they came with me, and I think I want them."* The names Desta and Kael
 
 | name | role in the Gemini files | source |
 |---|---|---|
-| Nima | Sotalio's Voice, friend of Noemi's murdered Voice | `prompts/new-supporting-cast.md:24` |
+| Nima | Sotalio's Voice, friend of Noemi's murdered Voice. An option, not a commitment (Q-XB2J: *"I'm not emotionally invested in her"*) | `prompts/new-supporting-cast.md:24` |
