@@ -13,7 +13,7 @@ This file lists every person and named animal in Cordimancy, with their status a
 | Toril ur-Hasha | Chief of Kelun, holds the staff of Kelun, stoneless, semi-mute | `:4706`, `:4711` |
 | Malena | Toril's wife, suspects she is pregnant | `:4122`, `:4745` |
 | Oji (Oathizhi) | Born osipi, thirteen, an adult; unconscious after the last aiki trance | `:4704` |
-| Tupa (Tulespa) | Malena's sister, eleven, carries Shivi's acorn | `:4697`, `:4750` |
+| Tupa (Tulespa) | Malena's sister, eleven. She carried Shivi's acorn heartstone out of the palace and dropped it into Toril's hands, as Shivi made her promise | `:4697`, `:4750`–`4751` |
 | Kinora | Eight or nine (`plan/truth-profiles/kinora-and-tupa.md`); her first question is about Cricket | `:4671`–`4683` |
 | Cricket | The toddler Kinora named. He was found, and Oji left him at Corim's house in Two Forks with Hika guarding him | `:3450`, `:4683` |
 | Riva | A small girl Tupa carried out of the palace | `:1689`, `:4697` |
