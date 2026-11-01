@@ -68,7 +68,7 @@ status:   proposed
 
 **Labels stand in for people.** Describe a character by what they believe, what they want and how they handle truth, not by a tag like "barren" or "the Heart". Labels in a plan become labels in the prose (`~/code/me/novel-method/sources/harvest-g4.md`, G4-22; Daniel's essay `~/code/me/sivanea.com/on-lying-and-truth-telling.md`).
 
-[?] **The novel is strict third-person limited, rotating between characters.** <!-- @WF-pov: third-limited-rotating --> Irony comes from a POV character misreading information both they and the reader have, not from giving the reader information the POV character lacks.
+**The novel is strict third-person limited, rotating between characters** (ruling, Q-XV7A). <!-- @WF-pov: third-limited-rotating --> Rotation is a legitimate source of irony: the reader may hold what one POV learned and another lacks, as in Cordimancy ch 47, where Toril offers the heartstone while the reader holds Malena's suspected pregnancy from her own POV (`~/code/me/cordimancy/cordimancy.md:2431`–`2432`, `:4062`–`4079`). Within one POV, narration never tells the reader what that character doesn't know.
 
 ## 7. Retired claims
 
