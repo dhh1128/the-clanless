@@ -18,6 +18,10 @@ Each claim cites `~/code/me/cordimancy/cordimancy.md` (cordimancy commit `64b2f6
 
 He is in his mid-forties and single, like his sister Desta. He goes into exile because of *"friendship with Toril, loyalty to Toril as the true head of his clan, distrust of Rovin, and a genuine liking for the kids. He has many motives, all good, and his ties to his old home are mostly about comfort. He can live without that."*
 
+## His step (ruling, Q-YDNN)
+
+Corim's one movement in The Clanless is not leaving the comfort of home, which he can live without, but making his choice *"irrevocable/permanent"*. How he makes it permanent is open.
+
 ## The hounds
 
 Daniel: *"perhaps Desta brings them with her?"* `[?]` Corim goes ahead to Toril, and Desta follows from Two Forks with Cricket, Hika and the twin boarhounds. A childless woman of forty-five arrives at the exiles' door with a toddler and three large dogs, and the girls will love it.

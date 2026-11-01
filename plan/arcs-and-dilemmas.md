@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved 664aa387
 ---
 
 # L1 — Arcs and dilemmas
@@ -75,16 +75,19 @@ The brief names a failure: *"too much or too little movement from the emotional 
   2. She sees Kinora more clearly than the adults do, and tells Malena that Kinora has consented and is leaving.
   3. Her naming day in Sotalio, under Rovin's priest, with Veshumi on the bank (ruling, Q-M93X).
 
-## Supporting characters
+## Supporting characters (ruling, Q-YDNN)
 
-Their arcs are kept small, and each one is the content of their profile:
-- **Veshumi**, her sisters or her place (`plan/truth-profiles/veshumi.md`). Her choice is placed in L13, as someone who stays inside the clan.
-- **Desta**, her own life or theirs; blind spot *"anything can be managed"* `[?]` (`plan/truth-profiles/desta.md`).
-- **Kael**, honor or conscience; blind spot *"humans are all the same"* `[?]` (`plan/truth-profiles/kael.md`).
-- **Corim**, whose motives are all good and whose cost is comfort (`plan/truth-profiles/corim.md`).
-- **Rovin**, in L13.
+Secondary characters don't get arcs. Each is changed once by what the principals do, as Cordimancy's were: Paka's *"I never had the chance to be brave for the woman I love"* (`:3433`), the priest going to Sotalio to shame Rovin (`:3025`). Each gets one line: a **step** (a choice that costs), a **revelation** (they stay the same and the reader sees them differently), a **refusal** (offered a move, they decline it) or a **hardening** (they move the wrong way). The kinds are varied on purpose, so the book doesn't have everyone learning a lesson. The movement comes from the principals, so it also measures how far their love reaches.
+
+- **Veshumi: a step, then a refusal** `[?]`. She releases Malena's share (`plan/truth-profiles/veshumi.md`, "Malena's share"), and then stays inside the clan. The brief's *"understandable, and heart-rending because we understand her."* Placed in L13.
+- **Rovin: a hardening, with a revelation** `[?]`. The reader comes to see his trap, *"I alone can fix this"* (`plan/truth-profiles/rovin.md`), as he goes deeper into it. Placed in L13.
+- **Desta: a step** `[?]`. Her blind spot is *"anything can be managed"*; she learns to sit with what she can't fix (`plan/truth-profiles/desta.md`).
+- **Kael: a step.** He takes off the ivona, *"because he stops identify[ing] with warring and starts identifying with peacekeeping"* (Daniel, Q-YDNN). The ivona records deeds done at Luim's command (`plan/truth-profiles/kael.md`).
+- **Cricket: a step a toddler can take** `[?]`. Mute and glassy in the rushes (`:3115`–`3135`); if he speaks or laughs, it measures what the family has given him.
+- **Corim: a step.** Not leaving the comfort of home, but making the choice *"irrevocable/permanent"* (Daniel, Q-YDNN). How he makes it permanent is open.
 
 ## What this layer still needs
 
 - The dilemmas marked proposal, for Oji, Toril's blind spot and Kinora's dilemma itself, to be recognized or corrected.
+- How Corim makes his choice permanent.
 - The allocation half: which scene carries each rung, once the scene list exists.

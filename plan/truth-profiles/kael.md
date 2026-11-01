@@ -25,7 +25,7 @@ Each claim cites `~/code/me/cordimancy/cordimancy.md` (cordimancy commit `64b2f6
 
 ## Two kinds of struggle `[?]`
 
-- **The conscious dilemma: his honor, or his conscience.** His ivona records deeds done at Luim's command. Some of them he is now ashamed of, and the collar is still his. Taking it off or keeping it is a choice he feels in his body.
+- **The conscious dilemma: his honor, or his conscience.** His ivona records deeds done at Luim's command. Some of them he is now ashamed of, and the collar is still his. Taking it off or keeping it is a choice he feels in his body. It resolves when he takes the ivona off, *"because he stops identify[ing] with warring and starts identifying with peacekeeping"* (ruling, Q-YDNN).
 - **The confident blind spot: humans are all the same.** He is the mirror of every Kelun villager who calls Oji *yolk-sucker* (`:2057`). He helps Toril's people while sure they will turn on the osipi the moment it suits them. That widens the book's picture from both sides: osipi aren't uniform, and prejudice doesn't flow in only one direction. Over the book a few specific humans become exceptions to him, and he can't fold them back into the rule.
 
 ## How he bends truth `[?]`
