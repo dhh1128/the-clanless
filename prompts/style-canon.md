@@ -10,6 +10,18 @@ Source: `~/code/me/cordimancy/cordimancy.md` at cordimancy commit `64b2f69`. Cit
 
 The passages are the instrument. The numbers are diagnostics for checking a draft after it exists, and none of them is a target to write toward. The scene-level analysis behind the sections is in nine hand-maps of Cordimancy scenes, `plan/hand-maps/`, summarized in `plan/hand-maps/SYNTHESIS.md`.
 
+
+## Principles the canon serves
+
+Everything below is a tendency drawn from Cordimancy, with the reason it holds and the tension it sits in. None of it is a law. When two tendencies pull against each other, the deciding question is which of these principles is at stake. They are listed roughly in the order they should win, and the ordering is a proposal `[?]`:
+
+1. **The reader can follow.** Who is speaking, where people are, what just happened. Daniel's aim for tags, *"just enough to help the reader follow the conversation with confidence"*, is the general case.
+2. **The overcoming has to be real** (`plan/brief.md`). Nothing is resolved by explanation that should be resolved by a choice.
+3. **People, not labels** (`AGENTS.md` §6). A character is shown by what they believe, want and do with the truth.
+4. **Characters communicate** (`~/code/me/novel-method/tensions.md`, `withholding`). Negative space is carved out of talk, not substituted for it (ruling, Q-ZN70), and a feeling is named when naming it is an act between people (Q-YC5B).
+5. **It should not be bleak** (`plan/brief.md`). Joy inside the pain, and comedy from character.
+6. **The fingerprint.** Rhythm and statistics come last: they describe how Daniel's choices came out, not the choices.
+
 ---
 
 ## 0. The fingerprint
@@ -55,8 +67,10 @@ Other measures, whole book: semicolons to colons in narration **379 : 11**; em-d
 
 ## 1. Toril's interior
 
-Toril thinks in questions, argues with himself, and catches himself out. In these passages his interior is a chain of reasoning that turns on itself, not a summary of his feelings.
-
+- *Tendency.* Toril's interior is reasoning in questions that argues with itself and catches itself out (`:1826`), not a summary of his feelings.
+- *Why.* His arc is to confront the cost of his choices and shoulder it (`plan/brief.md`). The reader has to watch him reason, including against himself, or the shouldering isn't earned.
+- *Tension.* Reasoning on the page can stall a scene, and self-reproach can tip into self-pity.
+- *How it resolves in these passages.* The reasoning ends in a turn or an act: the self-correction that sends him back down the switchbacks (`:1826`), the bird that flies off and *"He lowered his head and walked on"* (`:1264`). In a fight his interior all but disappears (§8).
 
 **[reasoning that turns on itself]** `:1812`
 
@@ -131,8 +145,10 @@ A question about his own heart, practical worry (*"Who else had played the sentr
 
 ## 2. Malena's interior
 
-Malena's interior is quicker and more self-accusing than Toril's, and she argues against her own unfairness. Her narration asks 6.6 questions per thousand words, the most of the three POVs.
-
+- *Tendency.* Malena's interior is quicker and more self-accusing than Toril's. She builds a grievance and then argues against her own unfairness. She catastrophizes her guilt and minimizes her body (`plan/truth-profiles/malena.md`; ruling, Q-CR18). Her narration asks 6.6 questions per thousand words, the most of the three POVs.
+- *Why.* The reader has to like her during the stretch when she is hard on Toril. Watching her correct herself is what earns that.
+- *Tension.* Self-accusation repeated becomes self-pity, and a reader tires of it.
+- *How it resolves in these passages.* The grievance is dismantled in the same passage (*"No, that wasn't fair"*, `:2421`), and her tenderness is enacted rather than felt aloud (the boot under his head, `:2435`).
 
 **[arguing herself out of blaming him]** `:2419`
 
@@ -187,8 +203,10 @@ Her mother's voice in fragments, each tagged *"she'd said"*; the girl impressed,
 
 ## 3. Kinora
 
-A child's words and a child's reasoning, and the narration stays inside both without correcting them (Daniel: *"Not only does she speak like a child, she also thinks like one"*). Kinora's chapters are the shortest in the book, median 1,006 words, and her scenes have the most dialogue, 38%.
-
+- *Tendency.* The narration stays with a child's reasoning and doesn't correct it (Daniel: *"Not only does she speak like a child, she also thinks like one"*). Kinora's chapters are the shortest in the book, median 1,006 words, and her scenes have the most dialogue, 38%.
+- *Why.* Her blind spot, that her place in the family is a job (`plan/truth-profiles/kinora-and-tupa.md`), lands only if the reader watches her reason her way to it.
+- *Tension.* The reader still needs to see the scene clearly, and a child's words would starve it.
+- *How it resolves in these passages.* The narrator lends words for what she perceives, words she wouldn't have herself (*"the eddy in the concavity of the riverbank"*, `:3118`), but not insight she doesn't have. Adult understanding of what she is doing is left to the reader.
 
 **[naming him]** `:2688`
 
@@ -222,8 +240,10 @@ Testing his breath by covering his mouth is competence, not childishness. The as
 
 ## 4. Pressure in company
 
-Family and clan press on someone in front of witnesses. The pressuring party is sympathetic, the refusal is carried as much by the body as by words, and the anger is held until it breaks.
-
+- *Tendency.* Family and clan press on someone in front of witnesses. The pressuring party is sympathetic, the refusal is carried by the body as much as by words, and anger is held until it breaks.
+- *Why.* *"Bad characters are mostly trapped in their own bad assumptions, not deeply evil"* (`plan/brief.md`). Witnesses raise the cost of every line.
+- *Tension.* Held anger can read as passivity, and a refusal by stillness can read as weakness.
+- *How it resolves in these passages.* The reader is shown each time the anger is swallowed, so the break is counted toward (`:760`, `:765`, `:816` before `:834`). The break is followed at once by an apology, and the refusal is final even when it is silent (`:247`).
 
 **[a signet refused by stillness]** `:228`
 
@@ -282,8 +302,10 @@ The longest paragraph in the scene, then two words: *"Toril stopped."* The apolo
 
 ## 5. Talk on the road
 
-Found family is built in argument and teasing. Each speaker has an idiolect, the point is often shown rather than argued, and the theme may be stated if a character with standing says it to one person.
-
+- *Tendency.* Found family is built in argument and teasing. Each speaker has an idiolect, and the point is often shown rather than argued.
+- *Why.* Oji *"finds a brother and a sister of the heart"* (`plan/brief.md`), and that has to happen in talk the reader overhears, not in summary. Characters who communicate are a standing requirement (`~/code/me/novel-method/tensions.md`, `withholding`).
+- *Tension.* Stating the theme in dialogue risks a lecture.
+- *How it resolves in these passages.* A theme is stated by a character with standing, to one person, with a cost hidden behind it (Shivi at `:2381`–`2385`, who has lost an osipi son). Elsewhere the argument is settled by a flower, not a better argument (`:2358`).
 
 **[Oji's speech]** `:2332`
 
@@ -356,8 +378,10 @@ Comedy carried by kindness: the hat sinks over Shivi's eyebrows, she bends her b
 
 ## 6. The marriage
 
-Toril and Malena talk, and get each other wrong out loud. What each cannot say is the largest thing in the scene. Tenderness is often an act done while the other is asleep.
-
+- *Tendency.* Toril and Malena talk, and get each other wrong out loud. The largest thing in their scenes is what each cannot say. Tenderness is often an act done while the other is asleep.
+- *Why.* The book is about the cost and beauty of costly loving relationships (`plan/brief.md`), and both of them have to stay sympathetic while they hurt each other.
+- *Tension.* A misreading can make one of them look obtuse or cruel.
+- *How it resolves in these passages.* The reader holds what the POV lacks, through the rotating POV (ruling, Q-XV7A), so Toril's *"simple courtesy"* reads as ignorance, not cruelty (`:4053`). Each concedes something to the other before it goes wrong (*"No. Not easy,"* `:4057`).
 
 **[care while he sleeps, and after]** `:2262`
 
@@ -440,8 +464,10 @@ She goes white: *"What do you think it costs me to sit next to you, speak to you
 
 ## 7. A hard truth told with love
 
-Someone with standing refuses both the comforting lie and the cruel one.
-
+- *Tendency.* Someone with standing refuses both the comforting lie and the cruel one.
+- *Why.* Daniel's essay (`~/code/me/sivanea.com/on-lying-and-truth-telling.md`): a falsehood told to comfort is still a lie.
+- *Tension.* Firmness against tenderness.
+- *How it resolves in this passage.* Both at once, and the body carries the second half: *"Shame on you for that"*, then a palm laid on the cheek (`:4321`).
 
 **[shame, and a palm on the cheek]** `:4321`
 
@@ -464,8 +490,10 @@ Someone with standing refuses both the comforting lie and the cruel one.
 
 ## 8. Action, grappling
 
-Where a body is grappling a body, sentences run long, and one verb carries a chain of consequences in a single breath. Short paragraphs are held for the reversals. Daniel calls this intuition, not a rule he holds (Q-GXBE).
-
+- *Tendency.* Where a body is grappling a body, sentences run long, and one verb carries a chain of consequences in a single breath. Short paragraphs are held for the reversals.
+- *Why.* Daniel: long sentences that *"combine several things"* feel more breathless than short ones, *"giving a feeling of things happening in a jumble."* The events pile up faster than the reader can separate them.
+- *Tension.* The reader still has to follow who did what to whom. Daniel calls the rhythm intuition, not a rule he holds (Q-GXBE), so it is a default, not a law.
+- *How it resolves in these passages.* Each long sentence keeps one subject and lets the consequences hang off it, so the geography stays clear (`:1018`).
 
 **[the rakshasa]** `:1018`
 
@@ -499,8 +527,10 @@ Narration in this scene averages 17.3 words a sentence, against 12.2 for the boo
 
 ## 9. Action, perceived in fragments
 
-Where the POV perceives a group fight in poor visibility, the prose breaks into fragments, one sense at a time. The Rift's fights run 9–10 words a sentence.
-
+- *Tendency.* Where the POV perceives a group fight in poor visibility, the prose breaks into fragments, one sense at a time. The Rift's fights run 9–10 words a sentence.
+- *Why.* The POV can't connect what she perceives, so the prose doesn't either.
+- *Tension.* Disorientation is the point, but the reader has to know afterward who is where and who is hurt.
+- *How it resolves in these passages.* The fragments stop once the attack ends, and an inventory follows in dialogue, each person accounted for by voice (`:3682`–`3692`).
 
 **[pishachas in the haze]** `:3660`
 
@@ -534,8 +564,10 @@ A single word as a paragraph (*"Pishacha."*), a two-word one (*"Silence brooded.
 
 ## 10. Speakers and magic
 
-Gitám does not contract (7.5 per thousand words against 47 for the book's dialogue; deliberate, and his idiolect rather than a rule for all Speakers, Q-ZG39). He repeats one word rather than reach for a synonym, and he answers with a question, a story or silence.
-
+- *Tendency.* Gitám does not contract (7.5 per thousand words against 47 for the book's dialogue). He repeats one word rather than reach for a synonym, and he answers with a question, a story or silence.
+- *Why.* The register is deliberate, and it belongs to Gitám, not to every Speaker (ruling, Q-ZG39). The repetition of *name* lets his aphorisms land.
+- *Tension.* A formal god can turn cold or preachy.
+- *How it resolves in these passages.* He is warm inside the formality (*"How like First Man you are, child!"*, `:1484`; *"sounding pleased,"* `:1495`), and he teaches through a parable and through Toril's own step into the dark rather than by lecture. Magic in a fight is a word and an act told in one sentence (`:1016`).
 
 **[Gitám on names]** `:1443`
 
@@ -580,8 +612,10 @@ Lip magic is a word and spit on brass, told in one sentence and used once in the
 
 ## 11. Grief
 
-Grief is carried by the body and by an act, and is seldom named. Physical work gives the mind somewhere to go.
-
+- *Tendency.* Grief is carried by the body and by an act, and is seldom named. Physical work gives the mind somewhere to go.
+- *Why.* A feeling is named when naming it is itself an act between people, or when the reader needs bearings. It is left unnamed when naming it would close a question the reader should hold, or when the character can't bear to say it (Q-YC5B). Grief in these scenes is the second kind.
+- *Tension.* The book must not be bleak (`plan/brief.md`), and unspoken grief can read as coldness.
+- *How it resolves in these passages.* Grief turns into a small act of love: the children laid across Paka's lap, *"Like a grandpa"* (`:4255`).
 
 **[the children, and Paka]** `:4242`
 
@@ -623,8 +657,10 @@ He recognizes each child and gives one detail of each. Malena falls to her knees
 
 ## 12. Comedy
 
-Comedy carries exposition and relief, and in these passages it comes from character rather than from a quip inserted for effect. Daniel: *"I worked hard on those."*
-
+- *Tendency.* Comedy carries exposition and relief, and in these passages it comes from character rather than from a quip inserted for effect. Daniel: *"I worked hard on those."*
+- *Why.* *"It should not be bleak"* (`plan/brief.md`).
+- *Tension.* A joke can undercut a pain the reader should feel.
+- *How it resolves in these passages.* The comedy comes after the pain has been acknowledged (the blackberry tarts follow the stepfather, `:577`), and nobody is mocked (§5, the hat).
 
 **[Tupa's firecrackers]** `:213`
 
