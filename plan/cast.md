@@ -55,6 +55,7 @@ This file lists every person and named animal in Cordimancy, with their status a
 | Kinora's stepfather, Elesel, Maco | Noemi was *"wiped out"* | `:1305`, `:3528`–`3536` |
 | Kinora's real father | Killed by a sloth bear when she was a baby | `:563` |
 | Taxo | Raja Fodende's son, long dead | `:1793` |
+| Nanar | Shivi and Paka's son, who took the golden fork; lived to twenty-four, married and had children. His tribe *"migrated far to the south"* and Shivi lost track of them | `:2804`–`2810` |
 | Irov ur Hapno | The last sata to lead Kelun, eight hundred years ago | `:108` |
 | Viro and Lin | Twin sisters of the Blood Rift legend. Viro tore the land with blood magic, and Lin died carrying a seedling as a peace offering | `:3899`, `:3982`–`3990` |
 
