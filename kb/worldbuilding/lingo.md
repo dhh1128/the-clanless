@@ -115,7 +115,7 @@ Every term below is harvested from `~/code/me/cordimancy/cordimancy.md` (cordima
 | kina, half crown, crown | Coins. A soldier earns one silver kina a day, and eight kinas make a half crown | `:2972` |
 | bafla | Travel bread | `:673` |
 | kalu | Liquor | `:922` |
-| chotra | `[?]` A dish of spiced chickpeas stewed with onion and cumin, sold hot from a shop, modeled on Indian chole (Q-M72J asked for an Indian food). Canon gives only its smell, from a shop window, which turns a fasting Toril's stomach | `:2906`–`2907` |
+| chotra | A dish of spiced chickpeas stewed with onion and cumin, sold hot from a shop, modeled on Indian chole (ruling, Q-K82X). Canon gives only its smell, from a shop window, which turns a fasting Toril's stomach | `:2906`–`2907` |
 | bacco | Tobacco, or something like it. It is not native to the region, so the word is a foreign loan with a foreign spelling (ruling, Q-M72J). A bandit stinks of it, and an osipi soldier hides a stash of it on the barge | `:1179`, `:4173` |
 | doro | A musk perfume | `:1529` |
 | agiruhir | An herb that prevents gangrene | `:648`–`649` |
