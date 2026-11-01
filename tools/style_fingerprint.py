@@ -42,6 +42,7 @@ VERBS = r"said|says|asked|replied|whispered|muttered|murmured|gasped|sneered|sna
 VERB = re.compile(rf"\b(?:{VERBS})\b", re.I)
 SENT = re.compile(r"(?<=[.!?…])\s+")
 ITAL = re.compile(r"\*([^*]+)\*")
+CONTR = re.compile(r"\b\w+['’](?:t|s|re|ve|ll|d|m)\b", re.I)
 
 def words(s): return len(s.split())
 
@@ -84,7 +85,7 @@ def main(path):
     starts = sorted(SIDES)
     data = {k: dict(words=0, dw=0, iw=0, nw=0, narr=[], narr_final=[], dia=[], attrib=0, paras_n=[], paras_d=[],
                     spoken=0, said=Counter(), semi=0, colon=0, nq=0, nexcl=0, one_sent_paras=0, paras=0,
-                    short_iso=0, short_final=0, short_inner=0, short_init=0, slots_final=0, slots_init=0, slots_all=0, ital_s=[], asif=0, emdash=0, ellip=0, chap=set(), exchange=[], run=0)
+                    short_iso=0, short_final=0, short_inner=0, short_init=0, slots_final=0, slots_init=0, slots_all=0, ital_s=[], asif=0, emdash=0, ellip=0, chap=set(), exchange=[], run=0, contr=0, bare=0, beat=0, tagged=0, chapw=Counter())
             for k in KEYS}
     side = None; chap = None
     for idx in range(start, end):
@@ -103,7 +104,13 @@ def main(path):
         nt, dia, ital = split_para(p)
         w = words(p); d['words'] += w; d['paras'] += 1
         dw = sum(words(x) for x in dia); iw = sum(words(x) for x in ital)
-        d['dw'] += dw; d['iw'] += iw
+        d['dw'] += dw; d['iw'] += iw; d['chapw'][chap] += w
+        d['contr'] += sum(len(CONTR.findall(x)) for x in dia)
+        if dia:
+            rest = [x for x in sents(nt)]
+            if not rest: d['bare'] += 1
+            elif any(VERB.search(x) and words(x) <= 10 for x in rest): d['tagged'] += 1  # a tag: speech verb in a short narration sentence
+            else: d['beat'] += 1
         d['spoken'] += len(dia)
         d['emdash'] += p.count('—'); d['ellip'] += p.count('…')
         if dia or ital:
@@ -168,6 +175,10 @@ def main(path):
         print(f"  narration-only paras n={len(pn)} mean {st.mean(pn):.1f} median {st.median(pn)}; one-sentence {pct(agg['one_sent_paras'],len(pn)):.1f}%")
         if pd: print(f"  dialogue-bearing paras n={len(pd)} mean {st.mean(pd):.1f} median {st.median(pd)}")
         print(f"  narration ; : {agg['semi']}:{agg['colon']}; narration ? {agg['nq']} ({1000*agg['nq']/max(1,agg['nw']):.1f}/k narr words); ! {agg['nexcl']}; as-if/though {agg['asif']}; em-dash/kw {1000*agg['emdash']/agg['words']:.1f}; ellipsis/kw {1000*agg['ellip']/agg['words']:.1f}")
+        cw = sum((data[k]['chapw'] for k in keys), Counter())
+        b, bt, tg = (sum(data[k][f] for k in keys) for f in ('bare','beat','tagged'))
+        tot = max(1, b + bt + tg)
+        print(f"  dialogue paras: bare {pct(b,tot):.0f}%, action beat only {pct(bt,tot):.0f}%, speech verb {pct(tg,tot):.0f}%; contractions/k dialogue words {1000*sum(data[k]['contr'] for k in keys)/max(1,agg['dw']):.1f}; chapter words in this segment, median {st.median(cw.values()):.0f}")
         exs = [e for e in ex if e > 0]
         if exs: print(f"  exchanges (consecutive dialogue paras): n={len(exs)} median {st.median(exs)} max {max(exs)}")
     row('WHOLE BOOK', KEYS); row('TORIL', 'T'); row('MALENA', 'M'); row('KINORA', 'K')
