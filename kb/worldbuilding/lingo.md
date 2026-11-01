@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved ed7e5657
 ---
 
 # Closed vocabulary
