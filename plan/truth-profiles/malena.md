@@ -37,6 +37,7 @@ Every claim marked *canon* cites a line of `~/code/me/cordimancy/cordimancy.md` 
 - **Compliant phrasing that ends a conversation.** *"I know my duty."* (224) and *"I don't want to talk about it"* (1083). She says the acceptable thing so that nobody looks further.
 - **Hiding care inside action.** Her first kindness to Toril is anonymous.
 - **Minimization,** when the subject is her own body.
+- **Catastrophizing, when the subject is her own guilt** (ruling, Q-CR18). *"You said it yourself: I'm a dolt of a girl"* (`:4303`) is Malena *"paraphrasing and exaggerating/catastrophizing, not quoting"*: Shivi had shouted *"you foolish girl"* minutes before (`:4291`). In the same breath she claims she killed Paka and the children (`:4301`, `:4305`). Shivi names it a lie (`:4325`). Minimizing her body and magnifying her guilt are the same distortion pointed in two directions.
 
 ## How she tells truth (canon)
 
