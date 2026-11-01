@@ -49,7 +49,7 @@ SUBTITLE, NEGATIVE SPACE (shape approved, Q-ZN70), OBJECTS (meaning to each pers
 
 ## The outside-model check
 
-Run on 2026-11-01 with two seats from different labs, DeepSeek (`ds`) and Gemini (`gemini`), given the brief, this list and `plan/sequels.md`, and asked to refute it. Their answers are in the session's scratch and are summarized here with what was done.
+Run with two seats from different labs, DeepSeek (`ds`) and Gemini (`gemini`), given the brief, this list and `plan/sequels.md`, and asked to refute it. Their answers are summarized here with what was done.
 
 - **Both: nothing owned the antagonists, the clan's pressure, or those who stay.** Adopted as L13.
 - **Both: the band coheres too early, and isolation stops being real.** Adopted as a field of L3.
