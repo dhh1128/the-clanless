@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved db4153d1
 ---
 
 # The layers: candidate list
@@ -10,7 +10,7 @@ This is runbook A3's list, for Daniel to approve before any layer is written (`~
 - **F**, a known failure, from `~/code/me/novel-method/charter.md` ("The failures it was designed against") or `~/code/me/novel-method/tensions.md`;
 - **H**, a dependency that recurs across the hand-maps (`plan/hand-maps/SYNTHESIS.md`).
 
-A candidate is a layer only if it allocates something to specific positions in specific scenes, or owns facts that several scenes share. Anything else is reference and goes in the knowledge base, listed at the end. Every entry is a proposal `[?]`.
+A candidate is a layer only if it allocates something to specific positions in specific scenes, or owns facts that several scenes share. Anything else is reference and goes in the knowledge base, listed at the end. The list is approved (ruling, Q-N248); each layer's contents are still proposals until written and recognized.
 
 ## Layers
 
@@ -22,13 +22,14 @@ A candidate is a layer only if it allocates something to specific positions in s
 | L4 | **Relationship score** | Runbook A7: per day, each relationship's state, what carries it, the backstory items spent, and the threads that travel: the acorn, the antechild's shards, the staff, Cricket's name, as relationship carriers (L10 owns their plants and payoffs). Day grain is the runbook's default; whether a road book needs scene grain is open. | day | G (costly loving relationships), H (OBJECTS that travel) |
 | L5 | **Pressure** | What each character holds down (anger, a secret, a defense), since which scene, how many times it's been swallowed, and where it breaks. | book | H (PRESSURE), F (`withholding`) |
 | L6 | **Knowledge ledger** | Who knows what, and when, for every load-bearing fact: Malena's pregnancy and its father, Rovin's frame of the priest, the indenture, the frozen estate, Luim's fate. Reader, each POV, and the clan. Rotation as a source of irony (ruling, Q-XV7A) lives here. | scene | F (logic, `intensity`), H (READER) |
-| L7 | **Journey, bodies and resources** | Calendar and geography of the road north into winter; food, cold, horses, money (the freeze and the money outside Kelun, `plan/truth-profiles/corim.md`); the months of Malena's pregnancy and little Paka's birth; days of Oji's life burned in each aiki trance. | day | F (logical impossibility, scenes that don't join) |
+| L7 | **Journey, bodies and resources** | Calendar and geography of the road north into winter; food, cold, horses, money (the freeze and the money outside Kelun, `plan/truth-profiles/corim.md`); the months of Malena's pregnancy and little Paka's birth; days of Oji's life burned in each aiki trance. A weather score for the whole road, each day's weather chosen for its dramatic job, for contrast with its neighbors and for coherence, after Cretaceous's `~/code/me/cretaceous/plan/journey-calendar.md` (ruling, Q-N248). | day | F (logical impossibility, scenes that don't join) |
 | L8 | *(folded into L9, see below)* | | | |
 | L9 | **Stakes, hooks, relief and crises** | The stakes curve; a hook per chapter built from approved material, chained so each deepens the last; relief and comedy placed per scene, so the book doesn't turn bleak. For each crisis, what decides it (a choice, a sacrifice, love, or force and magic), keeping *"the power that matters is not the talent anyone was renowned for"* true. Per chapter, the share given to magic and plot against relationship beats. For the climax, the order in which each principal's payoff lands. | chapter; relief by scene | G (*"weep in frustration and worry as stakes mount"*, not bleak), F (`hooks`, `relief`) |
-| L10 | **Plants and payoffs** | Each plant, its payoff, and the plants for book 3 (`plan/sequels.md`). | book | G (*"we don't set up book 3 well enough"* is a failure), H (plants in every map) |
+| L10 | **Plants and payoffs** | Each plant, its payoff, and the plants for book 3 (`plan/sequels.md`). Each recurring motif (the daisy, the acorn, stones, fire) on a count and a spacing budget, so a motif doesn't turn into a tic, after Cretaceous's `~/code/me/cretaceous/plan/foreshadow-and-motif.md` (ruling, Q-N248). | book | G (*"we don't set up book 3 well enough"* is a failure), H (plants in every map) |
 | L11 | *(moved to reference, see below)* | | | |
 | L12 | **Milieu allocation** | Runbook A5's fourth product: per-scene sensory and species budgets, one showcase per thing, so the same details don't recur. Waits for the scene list. | scene | F (same adjectives and milieu details), G (*"a rich milieu"*) |
 | L13 | **The clan and its antagonists** | Every action the clan takes against the band, and why it is logical from inside: Rovin's freeze, the indenture, the clanless sentence. The trap each antagonist is in, and the scene where the reader sees it (*"trapped in their own bad assumptions, not deeply evil"*). Those who stay inside the clan, Veshumi above all, and the scene that makes each one *"understandable, and heart-rending."* Gorumim's trajectory on and off the page toward book 3. | book |
+| L14 | **Capabilities** | Every capability in the book: its rule, where the rule is taught, where it is exploited, and what it costs. Aiki and the days it burns; the staff of Kelun; kindling by hand, lip, eye, ear and heart; Voices and shimsals; blood magic; heart magic. A rule exploited before it's taught is a defect. After Cretaceous's `~/code/me/cretaceous/plan/tech-rules.md` (ruling, Q-N248). | book | F (unsubstantiated invention), G (heart magic over blood magic) |
 
 ## Reference, not layers
 
@@ -37,7 +38,7 @@ These own facts but allocate nothing, so they go in `kb/` or stay where they are
 - the cast register (`plan/cast.md`) and the backstory register (`plan/backstory.md`);
 - the truth profiles (`plan/truth-profiles/`), which L1 and L2 draw on;
 - the closed vocabulary (`kb/worldbuilding/lingo.md`);
-- the magic system, with each capability's cost and limit, and the mythology, separating what is true from what is believed (runbook A5);
+- the magic system's canon, with each capability's cost and limit (L14 allocates where each is taught and exploited), and the mythology, separating what is true from what is believed (runbook A5);
 - Kelun's law of clans, property and indenture, including whether Two Forks is under Kelun's law (open);
 - the style canon (`prompts/style-canon.md`);
 - **voices**, formerly L11: each speaker's idiolect and register (Oji's compound verbs, Gitám's uncontracted speech, ruling Q-ZG39, Kinora's child's words and reasoning, the pet names). It is static across the book, so it is reference. A change, such as a pet name earned or the word *daughter*, goes in L2 or L4;
