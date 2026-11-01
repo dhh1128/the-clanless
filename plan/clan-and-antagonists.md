@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved 18f550b9
 ---
 
 # L13 — The clan and its antagonists
@@ -34,7 +34,7 @@ Each action has to be logical from inside the clan, because that is what keeps i
 - **Rovin.** Trap: *"I alone can fix this"* (Daniel, `plan/truth-profiles/rovin.md`). The evidence he trusts is that it keeps working, and his competence is real (`:1305`). His dilemma, the war or the truth, is `[?]`. He objectifies people: Kinora is property and a precedent, the staff is a prize, *clanless* is a sentence. His one line in L1 is a hardening with a revelation (ruling, Q-YDNN): the reader comes to see the trap as he goes deeper into it.
 - **Veshumi's husband.** Rovin's cousin (`:1710`), protégé and lieutenant (ruling, Q-DEFS). He treats people as positions, as Rovin taught him, his wife included. He is unnamed. `[?]` He may have been one of the three lieutenants who framed the priest (`:3025`), which would put a lie told for Rovin inside Veshumi's house.
 - **The stepfather's kin.** They are trapped by need, not malice (`plan/truth-profiles/kinora-and-tupa.md`, the indenture). For them, a strong nine-year-old means survival.
-- **The clan as a body.** People follow Rovin because he acted while Toril was gone, and because the osipi story explains a horror they lived through. Their fear is the soil his lie grows in. `[?]` One clansman whose fear the reader understands would keep this from becoming a faceless mob.
+- **The clan as a body.** People follow Rovin because he acted while Toril was gone, and because the osipi story explains a horror they lived through. Their fear is the soil his lie grows in. One clansman whose fear the reader understands keeps this from becoming a faceless mob (ruling, Q-TNAC).
 - **Gorumim** (the exception). His backstory is the bonus prologue: Moruvish, the dispossessed heir bound to the osipi (`~/code/me/sivanea.com/cordimancy/bonus-prologue.md`). *"We know enough of his backstory to understand his hatred and motives, but he's very far down the path in many ways"* (`plan/brief.md`). He is alive and commanding soldiers in book 3 (`plan/sequels.md`). What he can still do after the palace, and what it costs him, is open (`plan/capabilities.md`, §11).
 
 ## Those who stay
@@ -42,8 +42,8 @@ Each action has to be logical from inside the clan, because that is what keeps i
 The brief asks that whoever chooses to stay inside the clan be *"understandable, and heart-rending because we understand her."*
 
 - **Veshumi.** Her sisters or her place (`plan/truth-profiles/veshumi.md`). Her L1 line is a step, then a refusal (ruling, Q-YDNN): she releases Malena's share, which is the clearest test of her dilemma, and then she stays. Her heartbreak at Tupa's naming day happens at the water's edge, in public (ruling, Q-M93X).
-- **Vasari** `[?]`. A friend to Toril who went back to Sotalio (`:1146`, `:1820`). He is a second person who stays, and his reason could be decency rather than respectability: someone has to keep the clan honest from inside.
-- **The priest** `[?]`. He nearly died for telling the truth in Sotalio (`:3333`). Whether he stays, and whether he is the priest at Tupa's naming day or that is *"Rovin's priest"* (Q-M93X), is open.
+- **Vasari** (ruling, Q-TNAC). A friend to Toril who went back to Sotalio (`:1146`, `:1820`). He is a second person who stays, and his reason could be decency rather than respectability: someone has to keep the clan honest from inside.
+- **The priest** (ruling, Q-TNAC). He nearly died for telling the truth in Sotalio (`:3333`). Whether he stays, and whether he is the priest at Tupa's naming day or that is *"Rovin's priest"* (Q-M93X), is open.
 
 ## Gorumim's path
 
@@ -53,5 +53,5 @@ The brief asks that whoever chooses to stay inside the clan be *"understandable,
 
 ## What this layer still needs
 
-- Rovin's dilemma, the husband's part in the frame, Vasari and the priest: recognized or corrected.
+- Rovin's dilemma and the husband's part in the frame: recognized or corrected. Who the ordinary clansman is.
 - The allocation half: which scene carries each clan action, each trap shown, and each choice to stay.
