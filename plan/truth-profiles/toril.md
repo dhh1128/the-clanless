@@ -32,6 +32,7 @@ When Malena tells him, he says he accepts the child, and his doubts are still al
 ## How he bends truth (canon and proposal)
 
 - **Partial truth about his own cost** (canon, `:4538`). He tells the part that spares the other person, and some of what he spares is his own pride. The essay counts this kind of omission as lying.
+- **Withholding what he knows until he knows who is complicit** (ruling, Q-B8DE). At the war council he knew from Oji that the prisoners' capture was staged (`:689`, `:776`) and never said so: *"he lacks proof and he's also not sure of exactly who is complicit."* He argued only from logic. The sequel's Toril handles what he knows about Rovin the same way.
 - **Restraint read as consent** (proposal). Now that he is mute, every silence of his gets read as agreement, by Rovin, by the clan and by Malena. The essay's dilemma of silence that lies becomes his daily condition.
 
 ## How he tells truth (canon)
