@@ -1,38 +1,43 @@
 # Vendored from ~/code/me/deep-resonance/tools at commit 3b6911f (see ~/code/me/novel-method/adopt.md); a local change here is filed as novel-method feedback.
-"""Fingerprint Viking, segmented by channel (dialogue / narration / italic speech) and by side.
+"""Fingerprint Cordimancy, segmented by channel (dialogue / narration / italic) and by POV.
 
-    python3 tools/style_fingerprint.py ~/code/me/viking/viking.md
+    python3 tools/style_fingerprint.py ~/code/me/cordimancy/cordimancy.md
 
-Method (also described in `prompts/style-canon.md` §0):
-- Body = from the `## 1` heading to the line before `### About the Author`. Headings and `§` lines dropped.
+Adapted from the Deep Resonance tool, which fingerprints Viking by side. Changed here: the body runs
+from the line `1` (chapter one's number) to the last scene's last line, before the end matter; a
+chapter starts at a bare-number line; each chapter's italic subtitle (`*topic ~ POV*`) is dropped;
+SIDES assigns each scene its POV. Channel rules, sentence splitting and attribution fragments are
+unchanged:
 - A paragraph is one non-empty source line.
 - Dialogue = text inside straight double quotes. A paragraph with an odd number of quotes leaves its
   last quote open to end of paragraph (multi-paragraph speech).
-- Italic channel = `*...*` spans of three or more words outside quotes (implant speech, quoted thought,
-  pufferbelly speech). Shorter italic spans are emphasis and stay in their channel.
+- Italic channel = `*...*` spans of three or more words outside quotes (quoted thought, Gitam's
+  words). Shorter italic spans are emphasis and stay in their channel.
 - Narration = what remains after removing dialogue and italic-channel spans.
 - Sentences split after . ! ? or … followed by whitespace. Words = whitespace tokens.
 - Attribution fragment = a narration sentence of six words or fewer, in a paragraph that carries
   dialogue, containing a speech verb (list below). Reported, but excluded from narration rates.
-- Sides assigned per scene by reading (SIDES below): E = Erisa, human POV; T = Earth;
-  P = pufferbelly (1291) POV; F = Julie inside Rafa's feed (Earth body, Erisa senses).
 """
 from __future__ import annotations
 import re, sys, statistics as st
 from collections import Counter
 
-# scene start line -> side. Each scene runs to the next start or chapter end.
+# scene start line -> POV. Each scene runs to the next start. From a scene-by-scene reading of
+# Cordimancy (the-clanless .ignored/hand-maps, turn 67): T = Toril, M = Malena, K = Kinora,
+# O = outside narrator, G = italic scenes with Gitam, P = the tale Paka narrates.
 SIDES = {
- 22:'E',98:'E',226:'T',244:'T',266:'T',358:'T',396:'T',420:'T',530:'E',568:'E',600:'E',718:'E',
- 784:'T',956:'T',972:'E',1028:'E',1084:'E',1118:'T',1206:'E',1254:'P',1286:'T',1390:'E',1524:'E',
- 1550:'E',1590:'E',1646:'T',1716:'T',1762:'E',1840:'F',1888:'T',2010:'T',2114:'T',2158:'T',2198:'T',
- 2276:'T',2314:'E',2488:'E',2554:'E',2628:'E',2656:'T',2934:'P',2948:'E',3038:'E',3246:'E',3502:'T',
- 3774:'E',3886:'E',3918:'T',3988:'T',4052:'T',4108:'P',4130:'E',4184:'E',4280:'E',4360:'E',4440:'T',
- 4550:'T',4626:'T',4726:'T',4848:'E',4874:'E',4928:'E',4966:'T',5018:'E',5072:'E',5170:'T',5282:'E',
- 5510:'T',5548:'E',5668:'E',5696:'P',5744:'E',5820:'T',5848:'T',5868:'T',5978:'E',6002:'E',6036:'E',
- 6076:'E',6088:'E',6106:'E',6142:'T',6166:'E',6196:'E',6216:'E',6232:'E',6268:'P',6294:'T',6330:'T',
- 6344:'T',6358:'E',6398:'E',6492:'T',6518:'E',
+ 38:'T',133:'T',199:'M',253:'T',280:'T',336:'T',411:'M',432:'M',509:'M',594:'T',701:'M',750:'T',
+ 762:'T',804:'T',846:'M',918:'T',949:'T',1009:'T',1040:'M',1089:'T',1133:'T',1177:'K',1259:'T',
+ 1274:'T',1293:'T',1341:'T',1348:'T',1374:'T',1434:'T',1467:'O',1473:'T',1517:'O',1522:'M',1555:'G',
+ 1577:'M',1608:'T',1656:'T',1701:'T',1716:'G',1724:'T',1746:'K',1812:'T',1849:'M',1938:'M',1954:'M',
+ 1984:'M',2043:'M',2118:'M',2159:'M',2258:'M',2272:'M',2327:'T',2394:'M',2411:'M',2443:'T',2487:'K',
+ 2529:'G',2556:'M',2588:'M',2610:'M',2636:'T',2677:'K',2712:'T',2758:'T',2782:'T',2823:'T',2840:'T',
+ 2852:'M',2872:'T',2900:'T',2924:'M',3002:'M',3042:'M',3115:'K',3141:'T',3244:'M',3252:'M',3321:'M',
+ 3392:'T',3435:'T',3485:'T',3522:'K',3551:'T',3593:'M',3644:'M',3708:'M',3803:'M',3863:'T',3899:'P',
+ 3997:'T',4012:'T',4062:'T',4085:'M',4148:'M',4169:'K',4214:'T',4242:'T',4253:'T',4277:'M',4333:'T',
+ 4363:'M',4408:'M',4449:'M',4466:'M',4552:'T',4571:'T',4653:'M',4669:'M',4686:'M',4703:'M',
 }
+KEYS = 'TMKOGP'
 VERBS = r"said|says|asked|replied|whispered|muttered|murmured|gasped|sneered|snarled|added|began|continued|wheezed|grunted|mumbled|shouted|called|answered|offered|prodded|interpreted|responded|hissed|snapped|groaned|breathed|cried|yelled|laughed|demanded|insisted|admitted|repeated|announced|protested|agreed|suggested|explained|chuckled|sighed|croaked|rasped|wondered|growled|barked|retorted|observed|declared|stammered|blurted|exclaimed|moaned|pleaded|urged|joked|quipped|teased|cut in|went on|spoke"
 VERB = re.compile(rf"\b(?:{VERBS})\b", re.I)
 SENT = re.compile(r"(?<=[.!?…])\s+")
@@ -74,23 +79,23 @@ def sents(text):
 
 def main(path):
     L = open(path).read().split('\n')
-    start = next(i for i, l in enumerate(L) if l.strip() == '## 1')
-    end = next(i for i, l in enumerate(L) if l.startswith('### About the Author'))
+    start = next(i for i, l in enumerate(L) if l.strip() == '1')
+    end = 4753  # last line of the last scene; end matter follows (cordimancy.md at 64b2f69)
     starts = sorted(SIDES)
     data = {k: dict(words=0, dw=0, iw=0, nw=0, narr=[], narr_final=[], dia=[], attrib=0, paras_n=[], paras_d=[],
                     spoken=0, said=Counter(), semi=0, colon=0, nq=0, nexcl=0, one_sent_paras=0, paras=0,
                     short_iso=0, short_final=0, short_inner=0, short_init=0, slots_final=0, slots_init=0, slots_all=0, ital_s=[], asif=0, emdash=0, ellip=0, chap=set(), exchange=[], run=0)
-            for k in 'ETPF'}
+            for k in KEYS}
     side = None; chap = None
     for idx in range(start, end):
         ln = idx + 1; l = L[idx]
-        if l.startswith('## '):
-            chap = l[3:]
+        if re.fullmatch(r'\d+', l.strip()):
+            chap = l.strip()
             for k in data:
                 data[k]['exchange'].append(data[k]['run']); data[k]['run'] = 0
             continue
         if ln in SIDES: side = SIDES[ln]
-        if not l.strip() or l.strip() == '§':
+        if not l.strip() or re.fullmatch(r'\*[^*]+ ~ [^*]+\*', l.strip()):
             continue
         if side is None: continue
         d = data[side]; d['chap'].add(chap)
@@ -165,7 +170,8 @@ def main(path):
         print(f"  narration ; : {agg['semi']}:{agg['colon']}; narration ? {agg['nq']} ({1000*agg['nq']/max(1,agg['nw']):.1f}/k narr words); ! {agg['nexcl']}; as-if/though {agg['asif']}; em-dash/kw {1000*agg['emdash']/agg['words']:.1f}; ellipsis/kw {1000*agg['ellip']/agg['words']:.1f}")
         exs = [e for e in ex if e > 0]
         if exs: print(f"  exchanges (consecutive dialogue paras): n={len(exs)} median {st.median(exs)} max {max(exs)}")
-    row('WHOLE BOOK', 'ETPF'); row('ERISA (human POV)', 'E'); row('EARTH', 'T'); row('PUFFERBELLY', 'P'); row('FEED (ch17)', 'F')
+    row('WHOLE BOOK', KEYS); row('TORIL', 'T'); row('MALENA', 'M'); row('KINORA', 'K')
+    row('OUTSIDE NARRATOR', 'O'); row('GITAM (italic scenes)', 'G'); row("PAKA'S TALE", 'P')
 
 if __name__ == '__main__':
     main(sys.argv[1])
