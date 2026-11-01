@@ -1,5 +1,5 @@
 ---
-approval: approved 714267ad
+approval: approved a26c937e
 ---
 
 # The layers: candidate list
@@ -31,6 +31,7 @@ A candidate is a layer only if it allocates something to specific positions in s
 | L13 | **The clan and its antagonists** | Every action the clan takes against the band, and why it is logical from inside: Rovin's freeze, the indenture, the clanless sentence. The trap each antagonist is in, and the scene where the reader sees it (*"trapped in their own bad assumptions, not deeply evil"*). Those who stay inside the clan, Veshumi above all, and the scene that makes each one *"understandable, and heart-rending."* Gorumim's trajectory on and off the page toward book 3. | book |
 | L14 | **Capabilities** | Every capability in the book: its rule, where the rule is taught, where it is exploited, and what it costs. Aiki and the days it burns; the staff of Kelun; kindling by hand, lip, eye, ear and heart; Voices and shimsals; blood magic; heart magic. A rule exploited before it's taught is a defect. After Cretaceous's `~/code/me/cretaceous/plan/tech-rules.md` (ruling, Q-N248). | book | F (unsubstantiated invention), G (heart magic over blood magic) |
 | L15 | **Humor** | Each character's comic register from canon: Tupa's blurted questions, Kinora's child logic, Oji's impatience and insults, Corim's ribbing (*"potato man"*, `~/code/me/cordimancy/cordimancy.md:3299`), Toril's gallows wit. Who carries the comedy now that Paka and Shivi, Cordimancy's warmest comic engines, are dead. A budget placed per scene. *"Humor is characterization, never decoration"* (`~/code/me/cretaceous/plan/humor-plan.md`). L9 keeps relief that isn't comic (ruling, Q-C0Q9). | book; placed by scene | G (not bleak), F (`relief`) |
+| L16 | **Ideas and belief** | Each idea Cordimancy taught (the ordeal of names, `:1445`; joy as sorrow transformed, `:2296`; forgiveness, `:4325`; what each path gives up, `:2343`–`2387`) and each new one. Who carries it now that the elders are dead, in which conversation, most often between equals (Toril and Malena, Malena and Desta, Toril and Oji); what saying it costs the speaker; the counter-voice; and whether the mythology holds it true or only believed. Daniel: this layer *"connects strongly to the whole raison d'etre of the book and … acts as commentary on its title"* (ruling, Q-XMPJ). | book; placed by scene | G (the ordeal of names, labels and names, heart over blood) |
 
 ## Reference, not layers
 
