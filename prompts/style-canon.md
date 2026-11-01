@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved 5843c844
 ---
 
 # Style canon
@@ -13,7 +13,7 @@ The passages are the instrument. The numbers are diagnostics for checking a draf
 
 ## Principles the canon serves
 
-Everything below is a tendency drawn from Cordimancy, with the reason it holds and the tension it sits in. None of it is a law. When two tendencies pull against each other, the deciding question is which of these principles is at stake. They are listed roughly in the order they should win, and the ordering is a proposal `[?]`:
+Everything below is a tendency drawn from Cordimancy, with the reason it holds and the tension it sits in. None of it is a law. When two tendencies pull against each other, the deciding question is which of these principles is at stake. They are listed roughly in the order they should win (ruling, Q-K000):
 
 1. **The reader can follow.** Who is speaking, where people are, what just happened. Daniel's aim for tags, *"just enough to help the reader follow the conversation with confidence"*, is the general case.
 2. **The overcoming has to be real** (`plan/brief.md`). Nothing is resolved by explanation that should be resolved by a choice.
