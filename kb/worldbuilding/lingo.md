@@ -40,7 +40,7 @@ Every term below is harvested from `~/code/me/cordimancy/cordimancy.md` (cordima
 | hakufu | Human slang for osipi | `:762`, `:2057` |
 | almost | Human slang for osipi | `:2057` |
 | yolk-sucker | Human slang for osipi | `:762`, `:2057` |
-| putos | Oji's word for the bandits. The translation bible renders it *tagri*, but this book is in English, so *putos* stands | `:2016` |
+| putos | An insult, roughly *"garbage eaters (pigs)"* (ruling, Q-JNAM). Oji uses it for the human bandits. The translation bible renders it *tagri*, but this book is in English, so *putos* stands | `:2016` |
 
 ## Names, the naming day and the ordeal
 
@@ -91,7 +91,7 @@ Every term below is harvested from `~/code/me/cordimancy/cordimancy.md` (cordima
 | Jurivna | Spring, flowers and birds | `:168`, `:1415` |
 | Gitám | The fifth, smallest finger, the Unpaired One: *"god of dregs, lost causes, broken pottery, and orphans"* | `:193` |
 | zhuril | The stars, made from tears | `:260` |
-| *Sarezha jilal* | An invocation (*"Sarezha jilal, Jurivna! … Help me!"*). Meaning not stated | `:4115` |
+| *Sarezha jilal* | *"Guide home"* (ruling, Q-M72J). Malena's prayer to Jurivna: *"Sarezha jilal, Jurivna! … Help me! I'm so lost."* | `:4115` |
 
 ## Creatures
 
