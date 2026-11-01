@@ -8,7 +8,7 @@ Verbatim passages from *Cordimancy*, the book *The Clanless* continues, with a m
 
 Source: `~/code/me/cordimancy/cordimancy.md` at cordimancy commit `64b2f69`. Citations are `:LINE` in that file and point at the first line of the passage; every line in the source is one paragraph. Quotations were extracted from the source by script, not retyped, and `[...]` marks an elision. Front matter (lines 1–33) and the end matter after line 4753 are not prose and are excluded from everything below.
 
-The passages are the instrument. The numbers are diagnostics for checking a draft after it exists, and none of them is a target to write toward. The scene-level analysis behind the sections is in nine hand-maps of Cordimancy scenes, which are working analyses and not yet tracked.
+The passages are the instrument. The numbers are diagnostics for checking a draft after it exists, and none of them is a target to write toward. The scene-level analysis behind the sections is in nine hand-maps of Cordimancy scenes, `plan/hand-maps/`, summarized in `plan/hand-maps/SYNTHESIS.md`.
 
 ---
 
@@ -43,11 +43,11 @@ Other measures, whole book: semicolons to colons in narration **379 : 11**; em-d
 
 **The three POVs are close.** Toril and Malena differ less than Viking's two sides do. Malena runs a little more interior (28.5% dialogue against Toril's 34.3%) and asks herself more questions (6.6 per thousand narration words against 4.9). Kinora's chapters are half the length and talk more. The voice differences between the POVs live in what they notice and how they reason (§1–§3), not in sentence statistics.
 
-**Dialogue is tagged.** Cordimancy carries 7.3 attribution fragments per thousand words, and `said` 448 times. Viking, by the Deep Resonance canon's count, carries 1.9 per thousand. A draft that strips tags to look modern is writing Viking, not Cordimancy. Tags are mostly `said` and `asked`; the colorful verbs are rare.
+**Tags are plain, and present only when the reader needs them.** Daniel: *"I tend to tag mostly when I feel it's necessary for clarity … The use of plain words is absolutely deliberate; using colorful words for tags is a distraction and a tic, I think. Tags should be mostly invisible, just enough to help the reader follow the conversation with confidence. When they're not needed, they should be dropped. (Cordimancy may be imperfect in this respect, but that's my aim.)"* Cordimancy carries 7.3 attribution fragments per thousand words, against 1.9 for Viking by the Deep Resonance canon's count, but the rate is not the lesson: it may only mean that Cordimancy's conversations have more speakers, or speakers who are harder to follow. The lesson is the choice of verb (`said` 448, `asked` 107, the colorful ones rare) and the test for each tag: does the reader need it to know who is speaking?
 
 **Short narration sentences do not cluster at paragraph ends.** Of 1,510 narration sentences of five words or fewer, 567 are a paragraph of their own. Inside multi-sentence paragraphs they take the final slot 28.8% of the time, below the chance rate of 33.1%; they open paragraphs more often than they close them. The Cretaceous canon's §0 claims short sentences cluster at paragraph ends as closers. That claim does not hold for Cordimancy.
 
-**Action has two rhythms.** Where a body grapples a body, narration runs long, 14–17 words a sentence, with one verb carrying a chain of consequences (§8). Where the POV perceives a group fight in poor visibility, it runs 9–10 words, one event per sentence (§9). Daniel calls it intuition, not a rule he holds (Q-GXBE).
+**Action has two rhythms** (`plan/hand-maps/SYNTHESIS.md`, RHYTHM). Where a body grapples a body, narration runs long, 14–17 words a sentence, with one verb carrying a chain of consequences (§8). Where the POV perceives a group fight in poor visibility, it runs 9–10 words, one event per sentence (§9). Daniel calls it intuition, not a rule he holds (Q-GXBE).
 
 **Gitám does not contract** (§10): 7.5 contractions per thousand words of his speech, against 47 for the book. That is deliberate and belongs to Gitám, not to every Speaker (Q-ZG39).
 
