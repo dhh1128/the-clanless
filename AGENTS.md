@@ -43,7 +43,7 @@ A SessionStart hook in `.claude/settings.json` prints any uncommitted changes to
   - `kb/cordimancy/`: facts from book 1, each with a line citation.
   - `kb/worldbuilding/`: new canon for this book.
   - `kb/research/`: real-world reference.
-  - `plan/`: the brief, the layers, the scene list, the relationship score, the truth profiles, `hand-maps/` (Cordimancy scenes mapped backward, for A2–A4; ruling, Q-S218), and `scene-maps/`.
+  - `plan/`: the brief, the layers, the scene list, relationships by day, the truth profiles, `hand-maps/` (Cordimancy scenes mapped backward, for A2–A4; ruling, Q-S218), and `scene-maps/`.
   - `content/`: prose, one file per scene.
   - `prompts/`: what gets handed to a model.
   - `tools/`: the suite.
