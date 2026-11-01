@@ -1,5 +1,5 @@
 ---
-approval: approved 602c9cf0
+approval: approved a68488f2
 ---
 
 # Brief: what The Clanless is for
@@ -44,6 +44,13 @@ These are the book's goals, in Daniel's words (`~/code/me/novel-method/runbook.m
 
 This book is a step up from Cretaceous and Deep Resonance: *"even richer characters, a meatier ethical payload, lots of moral complexity, and nuanced human relationships along with a magic system and a world mythology."*
 
-## Still open
+## What would make it a failure (ruling, Q-QSQQ)
 
-What would make the book a failure. The hand-off to book 3 is in `plan/sequels.md`.
+- It turns bleak. *"It should not be bleak."*
+- It turns sentimental: goodness is rewarded without being earned. *"The overcoming that they do has to be real."*
+- A character becomes a label instead of a person, such as Kinora written as a caricature of a traumatized child rather than a child *"rich with an inner life."*
+- A bad character becomes evil rather than trapped in bad assumptions. Gorumim is the exception.
+- Magic or plot crowds out the costly relationships the book is about.
+- An important character who is supposed to be sympathetic (Toril, Malena, Kinora, Tupa, Oji and others) is not relatable or not particularly likable.
+- *"there is too much or too little movement from the emotional posture/maturity of characters at the end of Cordimancy"*
+- *"we don't set up book 3 well enough"*. The hand-off to book 3 is in `plan/sequels.md`.
