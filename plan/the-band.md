@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved a576cbe7
 ---
 
 # L3 — The band
@@ -52,7 +52,7 @@ Cordimancy's rescue party was a band before there was a word for it, and it set 
 - **How many of the twenty-two rescued children are orphans,** and how many are claimed by surviving kin. The clan's claims on children are the indenture's pressure multiplied (L13).
 - **When Cricket, Hika, the hounds and Corim's household join,** and how far Two Forks is from the road north.
 - **Whether Vasari or the priest follow** (L13 has both staying for now, ruling Q-TNAC).
-- **Whether the band has a second wave,** other people Rovin's clan rejects, for whom the band becomes a refuge. The brief's *"the people who are rejected by their clan"* is plural.
+- **Who the second wave are.** The band gets one (ruling, Q-RJX0): others Rovin's clan rejects come to it as a refuge, so it grows from a family toward a clan, which book 3's settlement in the Rift needs (`plan/sequels.md`). The brief's *"the people who are rejected by their clan"* is plural.
 
 ## The two fields, for the allocation half
 
