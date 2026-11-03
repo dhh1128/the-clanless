@@ -1,5 +1,5 @@
 ---
-approval: approved 3d450f53
+approval: approved ee707e6f
 ---
 
 # L2 — Labels and names
@@ -74,11 +74,11 @@ He has no name but Kinora's (`:2688`), and no voice (`:2682`, `:3355`). Whether 
 
 1. **The sentence.** Rovin pins *clanless* on Toril's people, meaning a sentence that ends them (`plan/truth-profiles/rovin.md`, "The label"). Tupa's walk out of the river makes the sisters clanless at the moment she takes a name (ruling, Q-M93X).
 2. **The wound.** The word presses on each of them in a different way: no protection under the clan's law, no share in its harvest, no standing. The brief requires that *"the feelings of isolation need to be real."*
-3. **The reversal.** Someone keeps the word and changes what it means, as Malena did with *"Hasha's crazy son"* (`:2894`). Who says it first is open.
+3. **The reversal.** Someone keeps the word and changes what it means, as Malena did with *"Hasha's crazy son"* (`:2894`). Kinora says it first (ruling, Q-J9NP). She takes the word literally, with no irony: if they are clanless and she wants to be where they are, she is clanless too. That claims a shared condition, which answers her blind spot before anyone says *daughter*. Oji is the exile who lived it first, the only character Cordimancy calls clanless (`:4745`), so he could be the one she hears it from, and the one who understands what she's done. The power is in what it costs the adults to hear a child choose exile in order to belong. The guard is the style canon's Kinora section: the narration stays inside her reasoning and doesn't comment on it.
 4. **Held against cost.** After the reversal, the outside world keeps using the word as a sentence, and each use has to be held against again. The outside-model check flagged this rung (`plan/layers.md`): without it, the band calls itself clanless and then behaves like any found family.
 
 ## What this layer still needs
 
-- Who first takes *clanless* as a name, and in what words.
+- In what words Kinora takes the name, and where.
 - Tupa's self-name, and whether Cricket keeps his.
 - The allocation half: the scene for each label pinned, each name held, and each rung.
