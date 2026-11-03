@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved 3d450f53
 ---
 
 # L2 — Labels and names
