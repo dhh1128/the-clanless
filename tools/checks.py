@@ -378,7 +378,18 @@ def check_approval_not_stale() -> list[Violation]:
     and that corpus was written, approved and committed inside one day. Commit
     ordering then counted a formatting migration as an edit to every approved file
     at once. A hash is a comparison: immune to reformats, immune to commit churn,
-    and it sees uncommitted edits, which neither chronological version could."""
+    and it sees uncommitted edits, which neither chronological version could.
+
+    Edition 1 of novel-method (runbook B1, Q-QFMG): keep the hash, automate the
+    stamp. An approved file whose every change since its marker came in commits
+    citing a ruling's tag passes, per the vendored `approval_cited.py`; restamp it
+    with `python3 tools/approval_cited.py --write`. A provisional marker gets no
+    such pass, and neither does an uncommitted edit."""
+    from approval_cited import check as cited
+    try:
+        accepted = {path for path, ok, _ in cited(ROOT) if ok}
+    except RuntimeError:
+        accepted = set()
     out = []
     for path, lines in corpus().items():
         if len(lines) < 2:
@@ -387,7 +398,7 @@ def check_approval_not_stale() -> list[Violation]:
         if not m:
             continue
         now = body_hash((ROOT / path).read_text(encoding="utf-8"))
-        if now != m.group(1):
+        if now != m.group(1) and not (path in accepted and lines[1].startswith("approval: approved")):
             out.append(Violation(path, 2, f"body is {now}; the marker records {m.group(1)}"))
     return out
 
@@ -425,6 +436,17 @@ def check_approval_stated_once() -> list[Violation]:
     return out
 
 
+# A verbatim quotation is the source's words, not the corpus's (novel-method edition 1,
+# runbook B3): correcting a quoted "likeable" or a quoted date falsifies the quotation.
+# Straight and curly double quotes only; an apostrophe is not a quotation mark.
+QUOTED = re.compile(r'"[^"\n]*"|\u201c[^\u201d\n]*\u201d')
+
+
+def unquoted(line: str) -> str:
+    """The line with each double-quoted span blanked to spaces, so offsets survive."""
+    return QUOTED.sub(lambda m: " " * len(m.group(0)), line)
+
+
 def check_dated_provenance() -> list[Violation]:
     """Knowledge files carry what is true, not how it got approved (AGENTS.md §2).
 
@@ -446,7 +468,7 @@ def check_dated_provenance() -> list[Violation]:
             continue
         if n <= 3:
             continue
-        for m in pattern.finditer(line):
+        for m in pattern.finditer(unquoted(line)):
             if path.startswith("kb/research/") and m.group(0)[:2] == "20":
                 continue
             out.append(Violation(path, n, f"dated provenance in a knowledge file: {m.group(0)!r}"))
@@ -463,7 +485,8 @@ def check_us_english() -> list[Violation]:
     Filenames count: in Cretaceous `plan/humour-plan.md` survived for days because
     this check only ever read line content. A blockquote is exempt, because it is a
     verbatim quotation -- the style canon is built from passages of Daniel's own
-    novels, and correcting one would falsify the source."""
+    novels, and correcting one would falsify the source. An inline quotation is
+    exempt for the same reason (novel-method edition 1, runbook B3)."""
     spellings = british_spellings()
     pattern = re.compile(rf"\b({'|'.join(sorted(spellings, key=len, reverse=True))})\b", re.I)
     out = []
@@ -474,7 +497,7 @@ def check_us_english() -> list[Violation]:
     for path, n, line in iter_lines():
         if line.lstrip().startswith(">"):
             continue
-        for m in pattern.finditer(line):
+        for m in pattern.finditer(unquoted(line)):
             out.append(Violation(path, n, f"{m.group(0)!r} → {spellings[m.group(0).lower()]!r}"))
     return out
 
