@@ -29,7 +29,7 @@ This repo follows novel-method `edition-1`. Part C follows `~/code/me/cretaceous
 
 ## 2. Approval and asking
 
-Approval markers, `[?]`, `[~]` and `[-]` work as `~/code/me/novel-method/runbook.md` B1 describes. Write `approval: approved <hash>` with `python3 tools/approve.py --yes <file>`, and only after he says yes in conversation. Questions follow `~/code/me/novel-method/tensions.md`, under `questions`. His answer takes a few words, the question carries its full reasoning, and each reply asks one question, on its last line.
+Approval markers, `[?]`, `[~]` and `[-]` work as `~/code/me/novel-method/runbook.md` B1 describes. Write `approval: approved <hash>` with `python3 tools/approve.py --yes <file>`, and only after he says yes in conversation. Before a change to `plan/`, `prompts/`, `kb/` or this file goes to him, run `python3 ~/code/me/novel-method/tools/categorical.py --diff <rev>` and give each line it lists a reason, a counterweight or a citation (runbook B7). A proposal that moves bodies, objects or knowledge carries an event trace, and each scene map carries one as a section (runbook D2). Questions follow `~/code/me/novel-method/tensions.md`, under `questions`. His answer takes a few words, the question carries its full reasoning, and each reply asks one question, on its last line.
 
 ## 3b. When Daniel edits a file
 
