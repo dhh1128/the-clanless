@@ -28,6 +28,7 @@ Each claim is marked *canon*, citing `~/code/me/cordimancy/cordimancy.md` (cordi
 
 ## How he bends truth, and how he tells it (canon and proposal)
 
+- **Keeps back the pages of Gorumim's journal that name Luim** (`plan/backstory.md` OJ4, OJ5). He can read them, but not well enough to be sure what they mean, and asking Malena would mean telling her why he went back to the ruins. The withholding gives way when the book is revealed more broadly.
 - **Bends it by withholding his own history** (canon, OJ3), and by bravado that turns injury into a boast (*"ten of your buddies"*).
 - **Tells it as a blunt jab** (canon): *"You're a poor listener as well as a slow talker"* (`:2357`).
 
