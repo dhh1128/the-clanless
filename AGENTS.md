@@ -17,7 +17,7 @@ This novel is written under **novel-method** (`~/code/me/novel-method`). Refer t
 - `runbook.md`: Part A (book setup), Part B (the consistency machinery), Part C (building a scene).
 - `~/code/me/novel-method/adopt.md`: how this repo references the method and feeds back to it.
 
-novel-method has not tagged its first edition yet. Until it does, this repo follows novel-method `main` at commit `f8be96a`. Part C follows `~/code/me/cretaceous/process/scene-build-runbook.md` at cretaceous commit `23a2199`.
+This repo follows novel-method `edition-1`. Part C follows `~/code/me/cretaceous/process/scene-build-runbook.md` at cretaceous commit `23a2199`, with runbook Part C's edition 1 additions. Part D of the runbook is standing practice here. A SessionStart hook runs `~/code/me/novel-method/tools/edition_notice.py`, which says what changed in the method since this pin.
 
 **Feeding the method back.** When Daniel corrects, rules on or rejects something, record his exact words with the session id and timestamp at that moment. That includes a message he types while you are busy. At each retro, sort each correction as canon, method, craft, tool or friction. Canon stays here. File everything else as a tick in `~/code/me/novel-method`, following `~/code/me/novel-method/adopt.md`, "The flywheel".
 
