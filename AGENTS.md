@@ -47,7 +47,8 @@ A SessionStart hook in `.claude/settings.json` prints any uncommitted changes to
   - `content/`: prose, one file per scene.
   - `prompts/`: what gets handed to a model.
   - `tools/`: the suite.
-  - `.ignored/`: working analyses, which nothing tracked may cite.
+  - `process/handoff.md`: the tracked pointer to the session handoff (Q-S2TH; runbook D9). It is the one tracked file that names a path in `.ignored/`.
+  - `.ignored/`: working analyses, which nothing tracked may cite, apart from the handoff pointer.
 - **Do not invent organizing schemes.** Ask before adding a folder or a naming convention.
 - **Scene ids are not chosen yet.** Ask Daniel before a scene list exists.
 - **`kb/worldbuilding/lingo.md` is a closed list.** <!-- @WF-lingo.closed: true --> Coining world vocabulary while drafting is a defect. Cordimancy's own terms get harvested into it, and a new term reaches the list only after Daniel approves it.
